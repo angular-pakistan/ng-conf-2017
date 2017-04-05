@@ -77,6 +77,17 @@
 
  ---
 5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides]() | [Youtube]()
+
+    Resources pointed by speaker
+
+    [Component Styles](https://angular.io/docs/ts/latest/guide/component-styles.html)
+
+    [Angular App Architecture](https://angular.io/docs/ts/latest/guide/architecture.html)
+
+    [NgModules](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html)
+
+    [Child Injectors - Lazy Loading](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-why-child-injector)
+
  ---
 6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides]() | [Youtube]()
  ---
