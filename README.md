@@ -60,6 +60,21 @@
 
  ---
 4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Slides]() | [Youtube]()
+
+    Resources pointed by speaker
+
+    [A Frame](https://aframe.io/)
+
+    [Three JS](https://threejs.org/)
+
+    [Web VR](https://webvr.info/)
+
+    [Web VR Polyfills](https://github.com/googlevr/webvr-polyfill)
+
+    [Web VR Chrome Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil?hl=en)
+
+    [Web VR Chrom Extension - Github](https://github.com/spite/WebVR-Extension)
+
  ---
 5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides]() | [Youtube]()
  ---
