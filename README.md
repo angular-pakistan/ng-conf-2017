@@ -197,7 +197,7 @@
 
 > Live Stream - [Day 1 - Youtube](https://www.youtube.com/watch?v=7CLYUE6RUzw)
 
-> Unofficial ng doc : ngdoc.io
+> Unofficial ng doc : [ngdoc.io](http://www.ngdoc.io)
 
 
 
