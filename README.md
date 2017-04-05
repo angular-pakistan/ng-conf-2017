@@ -107,6 +107,13 @@
 
  ---
 8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | [Youtube]()
+
+    Resources
+
+    [hirez.io on twitter](https://twitter.com/hirez_io)
+
+    [hirez.io](https://hirez.io/)
+
  ---
 9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | [Youtube]()
  ---
