@@ -89,14 +89,24 @@
     [Child Injectors - Lazy Loading](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-why-child-injector)
 
  ---
-6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides]() | [Youtube]()
+6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](yom.nu/ng-conf-2017) | [Youtube]()
 
     Slide link coming soon ...
 
  ---
-7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides]() | [Youtube]()
+7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/) | [Demo](yom.nu/ng-conf-2017-demo)  |  [Github](yom.nu/ng-conf-2017-code) | [Youtube]()
+
+    Resources pointed by speaker
+
+    [Animation in Angular 2,4 & beyond](https://angular.io/docs/ts/latest/guide/animations.html)
+
+    [Year of Moo](https://www.yearofmoo.com/)
+
+    Animations in Angular 4.1 - Link not available at this time
+
+
  ---
-8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [Slides]() | [Youtube]()
+8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | [Youtube]()
  ---
 9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | [Youtube]()
  ---
