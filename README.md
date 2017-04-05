@@ -48,7 +48,7 @@
     [Angular CLI Pluralsight Course](http://jpapa.me/ps-ng-cli)
 
  ---
-3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides]() | [Youtube]()
+3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides](https://speakerdeck.com/mgechev/mad-science-with-the-angular-compiler) | [Youtube]()
 
     Resources pointed by speaker
 
