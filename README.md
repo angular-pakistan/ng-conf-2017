@@ -53,7 +53,9 @@
     Resources pointed by speaker
 
     [ng ast](https://github.com/mgechev/ngast)
+
     [ng rev](https://github.com/mgechev/ngrev)
+
     [Minko's Blog](http://blog.mgechev.com/)
 
  ---
