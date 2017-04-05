@@ -51,6 +51,9 @@
 
 > Will be updated before day 3 starts at #ngConf
 
+## Misc
+
+> Live Stream - [Day 1 - Youtube](https://www.youtube.com/watch?v=7CLYUE6RUzw)
 
 
 
