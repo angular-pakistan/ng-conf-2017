@@ -2,7 +2,7 @@
 
 ## Day 1 Summary (April 5th, 2016)
 
-1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | [Youtube]()
+1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | Youtube link coming soon.
 
     Resources pointed by speakers
 
@@ -31,7 +31,7 @@
     ... Long Term Suppor - Starting with V4 - Link not available at this time
 
  ---
-2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides]() | [Youtube]()
+2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides]() | Youtube link coming soon.
 
     Resource pointed by speaker
 
@@ -48,7 +48,7 @@
     [Angular CLI Pluralsight Course](http://jpapa.me/ps-ng-cli)
 
  ---
-3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides](https://speakerdeck.com/mgechev/mad-science-with-the-angular-compiler) | [Youtube]()
+3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides](https://speakerdeck.com/mgechev/mad-science-with-the-angular-compiler) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -59,7 +59,7 @@
     [Minko's Blog](http://blog.mgechev.com/)
 
  ---
-4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Github](https://github.com/amcdnl/ngx-webgl) | [Slides](http://slides.com/austinmcdaniel/new-realities-angular#/) | [Demo](https://amcdnl.github.io/ngx-webgl/#/) | [Youtube]()
+4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Github](https://github.com/amcdnl/ngx-webgl) | [Slides](http://slides.com/austinmcdaniel/new-realities-angular#/) | [Demo](https://amcdnl.github.io/ngx-webgl/#/) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -76,7 +76,7 @@
     [Web VR Chrom Extension - Github](https://github.com/spite/WebVR-Extension)
 
  ---
-5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides](https://t.co/igMGVQeATK) | [Youtube]()
+5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides](https://t.co/igMGVQeATK) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -89,12 +89,12 @@
     [Child Injectors - Lazy Loading](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-why-child-injector)
 
  ---
-6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](yom.nu/ng-conf-2017) | [Youtube]()
+6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](yom.nu/ng-conf-2017) | Youtube link coming soon.
 
     Slide link coming soon ...
 
  ---
-7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/) | [Demo](yom.nu/ng-conf-2017-demo)  |  [Github](yom.nu/ng-conf-2017-code) | [Youtube]()
+7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/) | [Demo](yom.nu/ng-conf-2017-demo)  |  [Github](yom.nu/ng-conf-2017-code) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -106,7 +106,7 @@
 
 
  ---
-8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | [Youtube]()
+8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | Youtube link coming soon.
 
     Resources
 
@@ -115,7 +115,7 @@
     [hirez.io](https://hirez.io/)
 
  ---
-9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | [Youtube]()
+9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -124,25 +124,30 @@
     [How I Stole Plunker Session Tokens with an Angular Expression](https://royaljay.com/security/angular-expression-injections/)
 
  ---
-10. `Thoughtful Component Design` [Jeremy Elbourne](https://twitter.com/jelbourn) & [Miles Malerba]() - [Slides]() | [Youtube]()
+10. `Thoughtful Component Design` [Jeremy Elbourne](https://twitter.com/jelbourn) & [Miles Malerba](https://twitter.com/milesmalerba) - [Github](https://github.com/angular/material2) | [Slides](https://goo.gl/TvRLlu) | Youtube link coming soon.
+
+    Resources pointed by speaker
+
+    [Material.io ](https://material.angular.io/)
+
  ---
-11. `Back from the past: A tale of helping others upgrade from Angular 1.x` [Sergio Cruz](https://twitter.com/hashtagserg) - [Slides]() | [Youtube]()
+11. `Back from the past: A tale of helping others upgrade from Angular 1.x` [Sergio Cruz](https://twitter.com/hashtagserg) - [Slides]() | Youtube link coming soon.
  ---
-12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides]() | [Youtube]()
+12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides]() | Youtube link coming soon.
  ---
-13. `ng-STEAM` [Joe Skeen](https://twitter.com/joeskeenjr) and [Gwen Skeen]() - [Slides]() | [Youtube]()
+13. `ng-STEAM` [Joe Skeen](https://twitter.com/joeskeenjr) and [Gwen Skeen]() - [Slides]() | Youtube link coming soon.
  ---
-14. `The Memory Leak Brain Drain` [Jon Boyd](https://twitter.com/biznasapps) - [Slides]() | [Youtube]()
+14. `The Memory Leak Brain Drain` [Jon Boyd](https://twitter.com/biznasapps) - [Slides]() | Youtube link coming soon.
  ---
-15. `There and Back Again: a developer’s tale` [Jacob Turner](https://twitter.com/JIsraelTurner) - [Slides]() | [Youtube]()
+15. `There and Back Again: a developer’s tale` [Jacob Turner](https://twitter.com/JIsraelTurner) - [Slides]() | Youtube link coming soon.
  ---
-16. `The Little Tool That Dreams Big` [Hans Larsen](https://twitter.com/hanslatwork) - [Slides]() | [Youtube]()
+16. `The Little Tool That Dreams Big` [Hans Larsen](https://twitter.com/hanslatwork) - [Slides]() | Youtube link coming soon.
  ---
-17. `The Angular Compiler 4.0` [Tobias Bosch](https://twitter.com/tbosch1009) - [Slides]() | [Youtube]()
+17. `The Angular Compiler 4.0` [Tobias Bosch](https://twitter.com/tbosch1009) - [Slides]() | Youtube link coming soon.
  ---
-18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides]() | [Youtube]()
+18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides]() | Youtube link coming soon.
  ---
-19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | [Youtube]()
+19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | Youtube link coming soon.
  ---
 20. `ng-Party` [Pictures]()
  ---
