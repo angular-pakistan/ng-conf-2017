@@ -157,7 +157,20 @@
 
 
  ---
-14. `The Memory Leak Brain Drain` [Jon Boyd](https://twitter.com/biznasapps) - [Slides]() | Youtube link coming soon.
+14. `The Memory Leak Brain Drain` [Jon Boyd](https://twitter.com/biznasapps) - [Slides](https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-5-minute-talk) | Youtube link coming soon.
+
+    Resources pointed by speaker
+
+    [Memory Leak Brain Drain](https://biznas.io/blog/2017/04/05/ngconf2017-memory-leak-brain-drain-talk-by-biznas-lead-dev-jon-boyd/)
+
+    [1 hour talk on same topic](https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-1-hour-talk)
+
+    [Improving garbage collection performance](https://v8project.blogspot.ca/2015/08/getting-garbage-collection-for-free.html)
+
+    [Garbage collection visualized in illustrations](https://medium.com/@_lrlna/garbage-collection-in-v8-an-illustrated-guide-d24a952ee3b8)
+
+    [V8 Engine’s lead developer blog - talks about performance, garbage collection, and more](http://benediktmeurer.de/)
+
  ---
 15. `There and Back Again: a developer’s tale` [Jacob Turner](https://twitter.com/JIsraelTurner) - [Slides]() | Youtube link coming soon.
  ---
