@@ -59,7 +59,7 @@
     [Minko's Blog](http://blog.mgechev.com/)
 
  ---
-4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Slides]() | [Youtube]()
+4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Slides](https://github.com/amcdnl/ngx-webgl) | [Youtube]()
 
     Resources pointed by speaker
 
