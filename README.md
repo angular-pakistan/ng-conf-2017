@@ -90,6 +90,9 @@
 
  ---
 6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides]() | [Youtube]()
+
+    Slide link coming soon ...
+
  ---
 7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides]() | [Youtube]()
  ---
