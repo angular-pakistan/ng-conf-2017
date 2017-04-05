@@ -191,6 +191,21 @@
 
  ---
 18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides]() | Youtube link coming soon.
+
+    Resources poited by speaker
+
+    [RxJS Github repo](https://github.com/Reactive-Extensions/RxJS)
+
+    [RxJS Docs](http://reactivex.io/rxjs/)
+
+    [RxJS Opearators](http://reactivex.io/documentation/operators.html)
+
+    [Web Speech Recognition API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
+    [Lady Leet RxJS Test](https://github.com/ladyleet/rxjs-test)
+
+    [Google Cloud Vision](https://cloud.google.com/vision/)
+
  ---
 19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | Youtube link coming soon.
  ---
