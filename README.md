@@ -76,7 +76,7 @@
     [Web VR Chrom Extension - Github](https://github.com/spite/WebVR-Extension)
 
  ---
-5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides]() | [Youtube]()
+5. `Module VS Module` [Deborah Kurata](https://twitter.com/DeborahKurata) - [Slides](https://t.co/igMGVQeATK) | [Youtube]()
 
     Resources pointed by speaker
 
