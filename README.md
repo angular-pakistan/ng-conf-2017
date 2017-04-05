@@ -4,19 +4,30 @@
 
 1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | [Youtube]()
 
-Resources pointed by speakers
+    Resources pointed by speakers
 
-    ... [Angular Code of Conduct](github.com/angular/code-of-conduct)
-    ... [Angular Code of Conduct Email](conduct@angular.io)
-    ... [Developer Survey Results](https://stackoverflow.com/insights/survey/2017#technology)
-    ... Angular Library Spec - Link not available at this time
-    ... [Material - Component Dev Kit](https://github.com/angular/material2/issues/2789)
-    ... [Angular IDE](https://marketplace.eclipse.org/content/angular-ide)
-    ... [Ionic](https://ionicframework.com/)
-    ... [Ionic Untapped App](http://blog.ionic.io/built-with-ionic-untappd/)
-    ... Ionic V3 - Link not available at this time
+    [Angular Code of Conduct](github.com/angular/code-of-conduct)
+
+    [Angular Code of Conduct Email](conduct@angular.io)
+
+    [Developer Survey Results](https://stackoverflow.com/insights/survey/2017#technology)
+
+    Angular Library Spec - Link not available at this time
+
+    [Material - Component Dev Kit](https://github.com/angular/material2/issues/2789)
+
+    [Angular IDE](https://marketplace.eclipse.org/content/angular-ide)
+
+    [Ionic](https://ionicframework.com/)
+
+    [Ionic Untapped App](http://blog.ionic.io/built-with-ionic-untappd/)
+
+    Ionic V3 - Link not available at this time
+
     ... [NBA.com - Built with Angular 2 & TypeScript](http://www.nba.com/)
+
     ... [Angular V4](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+
     ... Long Term Suppor - Starting with V4 - Link not available at this time
 
  ---
