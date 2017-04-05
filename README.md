@@ -1,3 +1,5 @@
+> Note: Links, resources, slides and everything else will be updated as they happen.
+
 ## Day 1 Summary (April 5th, 2016)
 
 1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin) and [Igor Minor](https://twitter.com/IgorMinar) - [Slides]() | [Youtube]()
