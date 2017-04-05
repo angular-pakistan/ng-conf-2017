@@ -49,6 +49,13 @@
 
  ---
 3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides]() | [Youtube]()
+
+    Resources pointed by speaker
+
+    [ng ast](https://github.com/mgechev/ngast)
+    [ng rev](https://github.com/mgechev/ngrev)
+    [Minko's Blog](http://blog.mgechev.com/)
+
  ---
 4. `Creating VR Experiences with Angular and WebGL` [Austin McDaniel](https://twitter.com/amcdnl) - [Slides]() | [Youtube]()
  ---
