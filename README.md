@@ -41,7 +41,7 @@
 
     [Snippets & Language Service - John Papa - Link 1](http://jpapa.me/ngconfsnip)
 
-    [Snippets & Language Service - John Papa - Link 2](http://jpapa.me/ng-lang-svg)
+    [Snippets & Language Service - John Papa - Link 2](http://jpapa.me/ng-lang-svc)
 
     [Azure Functions](http://functions.azure.com)
 
