@@ -131,18 +131,18 @@
     [Material.io ](https://material.angular.io/)
 
  ---
-11. `Back from the past: A tale of helping others upgrade from Angular 1.x` [Sergio Cruz](https://twitter.com/hashtagserg) - [Slides]() | Youtube link coming soon.
+11. `Back from the past: A tale of helping others upgrade from Angular 1.x` [Sergio Cruz](https://twitter.com/hashtagserg) - [Slides](https://cl.ly/1T141I0a1n2T ) | Youtube link coming soon.
 
     Resources pointed by speaker
 
-    []()
+    -
 
  ---
 12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides]() | Youtube link coming soon.
 
     Resources pointed by speaker
 
-    []()
+    -
 
  ---
 13. `ng-STEAM` [Joe Skeen](https://twitter.com/joeskeenjr) and Gwen Skeen - [Slides]() | Youtube link coming soon.
