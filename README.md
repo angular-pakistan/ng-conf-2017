@@ -2,7 +2,23 @@
 
 ## Day 1 Summary (April 5th, 2016)
 
-1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin) and [Igor Minor](https://twitter.com/IgorMinar) - [Slides]() | [Youtube]()
+1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | [Youtube]()
+
+Resources pointed by speakers
+
+    ... [Angular Code of Conduct](github.com/angular/code-of-conduct)
+    ... [Angular Code of Conduct Email](conduct@angular.io)
+    ... [Developer Survey Results](https://stackoverflow.com/insights/survey/2017#technology)
+    ... Angular Library Spec - Link not available at this time
+    ... [Material - Component Dev Kit](https://github.com/angular/material2/issues/2789)
+    ... [Angular IDE](https://marketplace.eclipse.org/content/angular-ide)
+    ... [Ionic](https://ionicframework.com/)
+    ... [Ionic Untapped App](http://blog.ionic.io/built-with-ionic-untappd/)
+    ... Ionic V3 - Link not available at this time
+    ... [NBA.com - Built with Angular 2 & TypeScript](http://www.nba.com/)
+    ... [Angular V4](https://github.com/angular/angular/blob/master/CHANGELOG.md)
+    ... Long Term Suppor - Starting with V4 - Link not available at this time
+
  ---
 2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Slides]() | [Youtube]()
  ---
