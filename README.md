@@ -31,7 +31,22 @@
     ... Long Term Suppor - Starting with V4 - Link not available at this time
 
  ---
-2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Slides]() | [Youtube]()
+2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides]() | [Youtube]()
+
+    Resource pointed by speaker
+
+    [Angular Language Service for VS Code](https://github.com/angular/vscode-ng-language-service)
+
+    [Angular CLI](http://cli.angular.io)
+
+    [Snippets & Language Service - John Papa - Link 1](http://jpapa.me/ngconfsnip)
+
+    [Snippets & Language Service - John Papa - Link 2](http://jpapa.me/ng-lang-svg)
+
+    [Azure Functions](http://functions.azure.com)
+
+    [Angular CLI Pluralsight Course](http://jpapa.me/ps-ng-cli)
+
  ---
 3. `Mad Science with the Angular Compiler` [Minko Gechev](https://twitter.com/mgechev) - [Slides]() | [Youtube]()
  ---
