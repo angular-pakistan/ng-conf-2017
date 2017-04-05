@@ -175,8 +175,20 @@
 15. `There and Back Again: a developer’s tale` [Jacob Turner](https://twitter.com/JIsraelTurner) - [Slides]() | Youtube link coming soon.
  ---
 16. `The Little Tool That Dreams Big` [Hans Larsen](https://twitter.com/hanslatwork) - [Slides]() | Youtube link coming soon.
+
+    Resources pointed by speaker
+
+    [Angular CLI github](https://github.com/angular/angular-cli)
+
+    [Angular CLI 1.0 - Changelog](https://github.com/angular/angular-cli/blob/master/CHANGELOG.md)
+
  ---
 17. `The Angular Compiler 4.0` [Tobias Bosch](https://twitter.com/tbosch1009) - [Slides]() | Youtube link coming soon.
+
+    [Ahead of Time Compilation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
+
+    [@angular/compiler](https://www.npmjs.com/package/@angular/compiler)
+
  ---
 18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides]() | Youtube link coming soon.
  ---
