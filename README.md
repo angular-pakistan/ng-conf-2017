@@ -116,6 +116,11 @@
 
  ---
 9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | [Youtube]()
+
+    [Angular 1.6 Expression Sandbox Removal](http://angularjs.blogspot.com/2016/09/angular-16-expression-sandbox-removal.html)
+
+    [How I Stole Plunker Session Tokens with an Angular Expression](https://royaljay.com/security/angular-expression-injections/)
+
  ---
 10. `Thoughtful Component Design` [Jeremy Elbourne](https://twitter.com/jelbourn) & [Miles Malerba]() - [Slides]() | [Youtube]()
  ---
