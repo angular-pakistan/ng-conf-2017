@@ -190,7 +190,7 @@
     [@angular/compiler](https://www.npmjs.com/package/@angular/compiler)
 
  ---
-18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides]() | Youtube link coming soon.
+18. `Reactive Programming with RxJS: A Beginner’s Perspective` [Ben Lesh](https://twitter.com/BenLesh) and [Tracy Lee](https://twitter.com/ladyleet) - [Slides](https://www.slideshare.net/ladyleet/rxjs-a-beginner-experts-perspective-ngconf-2017) | Youtube link coming soon.
 
     Resources poited by speaker
 
