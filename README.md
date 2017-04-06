@@ -397,6 +397,12 @@
 
     [Webpack - How to write a plugin](https://github.com/webpack/docs/wiki/how-to-write-a-plugin)
 
+    [Webpack - Concepts](webpack.js.org/concepts)
+
+    [Webpack from first principle - Youtube video](https://www.youtube.com/watch?v=WQue1AN93YU)
+
+    [Webpack - Support Webpack Project - Buy here](https://webpack.threadless.com/)
+
     Extras
 
     [Webpack Closure Compiler - NPM](https://www.npmjs.com/package/webpack-closure-compiler)
