@@ -361,6 +361,16 @@
 
     [ngrx-store](https://github.com/ngrx/store)
 
+    [Redux Dev Tools - Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+    Some extra stuff ( Not pointed in the talk )
+
+    [Redux Dev Tools - Github](https://github.com/zalmoxisus/redux-devtools-extension)
+
+    [Redux Dev Tools - NPM ](https://www.npmjs.com/package/redux-devtools)
+
+    [Redux Dev Tools Extensions - NPM ](https://www.npmjs.com/package/redux-devtools-extension)
+
 
 8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
 
