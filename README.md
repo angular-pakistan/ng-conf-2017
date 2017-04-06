@@ -281,8 +281,13 @@
 
     [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
 
+3. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - Coming soon
 
-> Will be updated before day 2 starts at #ngConf
+4. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
+
+5. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
+
+
 
 ## Day 3 Summary (April 7th, 2016)
 
