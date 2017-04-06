@@ -235,10 +235,38 @@
 
 ## Day 2 Summary (April 6th, 2016)
 
-1. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] () | Youtube link coming soon.
+1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides] (https://t.co/0rdQsDxETs)
+
+    Resources pointed by speaker
+
+    [Web Bluetooth](https://www.npmjs.com/package/web-bluetooth)
+
+    [Web Bluetooth Test](https://www.npmjs.com/package/web-bluetooth-test)
+
+    [Web Bluetooth - NPM Types](https://www.npmjs.com/package/@types/web-bluetooth)
+
+    [NativeScript Bluetooth Plugin](https://github.com/EddyVerbruggen/nativescript-bluetooth)
+
+    [Native Script MIP BLE](https://github.com/sebawita/nativescript-mip-ble)
+
+    [Nativescript MIP BLE - npm](https://www.npmjs.com/package/nativescript-mip-ble)
+
+    ######Bluetooth Sample Projects
+
+    [Mambo Angular Service](https://www.npmjs.com/package/mambo-angular-service)
+
+    [Nativescript Mambo BLE](https://www.npmjs.com/package/nativescript-mambo-ble)
+
+    [Nativescript MIP BLE](https://www.npmjs.com/package/nativescript-mip-ble)
+
+    [Angular Web Bluetooth - Observables](https://www.npmjs.com/package/@manekinekko/angular-web-bluetooth)
+
+2. `Angular Performance Birds of a Feather` - [Jeff Cross](https://twitter.com/jeffbcross)  - Coming soon
+
+3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] () | Youtube link coming soon.
 
 
-2. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | Youtube link coming soon.
+4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -255,7 +283,7 @@
     [Live App](ngtest-turbo.firebaseapp.com)
 
 
-2. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | Youtube link coming soon.
+5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | Youtube link coming soon.
 
     Resources pointed by speaker
 
@@ -281,12 +309,16 @@
 
     [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
 
-3. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - Coming soon
+5. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - Coming soon
 
-4. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
+6. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
 
-5. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
+7. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
 
+8. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
+
+
+More coming soon... Star/Bookmark this repo ....
 
 
 ## Day 3 Summary (April 7th, 2016)
