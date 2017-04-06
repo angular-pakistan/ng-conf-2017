@@ -1,5 +1,7 @@
 > Note: Links, resources, slides and everything else will be updated as they happen.
 
+> Search with ⌘/ctrl + f
+
 ## Day 1 Summary (April 5th, 2016)
 
 1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=anzsE2TbCyk)
