@@ -281,11 +281,6 @@
 
     [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
 
-    [Github]()
-
-    [Github]()
-
-    [Github]()
 
 > Will be updated before day 2 starts at #ngConf
 
