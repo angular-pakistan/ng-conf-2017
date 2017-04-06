@@ -309,7 +309,23 @@
 
     [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
 
-5. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - Coming soon
+5. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - [Slides](http://codewithdan.me/angular-docker) | Youtube link coming soon.
+
+    Resouces pointed by speaker
+
+    > Angular with Docker Projects
+
+    [Angular Docker Microservices](https://github.com/DanWahlin/Angular-Docker-Microservices)
+
+    [Angular NodeJS MongoDB CustomersService](https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService)
+
+    [Angular RESTfulService](https://github.com/DanWahlin/Angular-RESTfulService)
+
+    [AspNetCore with Postgre SQL - DockerApp](https://github.com/DanWahlin/AspNetCorePostgreSQLDockerApp)
+
+    [CodeWithDan - DockerServices](https://github.com/DanWahlin/CodeWithDanDockerServices)
+
+    [Docker Website](https://www.docker.com/)
 
 6. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
 
