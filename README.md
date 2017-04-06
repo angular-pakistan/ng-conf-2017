@@ -374,11 +374,20 @@
     [Redux Dev Tools Extensions - NPM ](https://www.npmjs.com/package/redux-devtools-extension)
 
 
-8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
+8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - [Github - Everything is a plugin](https://github.com/TheLarkInn/everything-is-a-plugin) | Slides coming soon.
+
 
     Resources pointed by speaker
 
     [Webpack - The Core Concepts Video](opbeat.com/community/posts/webpack-the-core-concepts-by-sean-larkin)
+
+    [Artsy Webpack Tour](https://github.com/TheLarkInn/artsy-webpack-tour)
+
+    [Webpack](https://github.com/webpack/webpack)
+
+    [Webpack Tappable](https://github.com/webpack/tapable)
+
+    [Webpack Developer Kit](https://github.com/TheLarkInn/webpack-developer-kit)
 
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
