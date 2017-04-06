@@ -235,6 +235,9 @@
 
 ## Day 2 Summary (April 6th, 2016)
 
+1. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] ()
+
+
 > Will be updated before day 2 starts at #ngConf
 
 ## Day 3 Summary (April 7th, 2016)
