@@ -235,7 +235,7 @@
 
 ## Day 2 Summary (April 6th, 2016)
 
-1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides] (https://t.co/0rdQsDxETs)
+1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides](https://t.co/0rdQsDxETs)
 
     Resources pointed by speaker
 
