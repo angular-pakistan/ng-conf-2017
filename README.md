@@ -337,7 +337,7 @@
 
     [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 
-6. `FormControl Freaks: Redux Edition` - [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) & [Renee Vrantsidis](https://twitter.com/renvrant) | [Github](https://github.com/danielfigueiredo/wizards-wizard)  | [Slides]()
+6. `FormControl Freaks: Redux Edition` - [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) & [Renee Vrantsidis](https://twitter.com/renvrant) | [Github - Demo](https://github.com/danielfigueiredo/wizards-wizard)  | [Slides](https://github.com/renvrant/formcontrol-freaks)
 
 
     Resouces pointed by speakers
@@ -351,11 +351,13 @@
     [Ramda](http://ramdajs.com/)
 
 
-
-
 7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
 
 8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
+
+    Resources pointed by speaker
+
+    [Webpack - The Core Concepts Video](opbeat.com/community/posts/webpack-the-core-concepts-by-sean-larkin)
 
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
