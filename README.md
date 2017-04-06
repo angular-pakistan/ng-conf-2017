@@ -208,6 +208,25 @@
 
  ---
 19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | Youtube link coming soon.
+
+    [TestDouble](http://testdouble.com/)
+
+    [Mustachify](http://mustachify.me/)
+
+    [Must Stache](https://github.com/searls/must-stache)
+
+    [Must Stache.com](http://must-stache.com/)
+
+    [Simplisafe npm package](https://www.npmjs.com/package/simplisafe)
+
+    [Other packages from @searls](https://www.npmjs.com/~searls)
+
+    [Testdouble.js npm package](https://www.npmjs.com/package/testdouble)
+
+    [TestDouble.js vs sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
+
+    [Sinon.JS](http://sinonjs.org/)
+
  ---
 20. `ng-Party` [Pictures]()
  ---
