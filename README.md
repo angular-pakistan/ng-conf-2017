@@ -407,7 +407,14 @@ More coming soon... Star/Bookmark this repo ....
 
 > Live Stream - [Day 1 - Youtube](https://www.youtube.com/watch?v=7CLYUE6RUzw)
 
+> Live Stream - [Day 2 - Ballroom B - Youtube](https://www.youtube.com/watch?v=T7su3s7uhq4)
+
+> Live Stream - [Day 2 - Ballroom C - Youtube](https://www.youtube.com/watch?v=8pnQnNWabyQ)
+
+> Live Stream - [Day 2 - Ballroom A & D - Youtube](https://www.youtube.com/watch?v=_MrOw8iywC8)
+
 > Unofficial ng doc : [ngdoc.io](http://www.ngdoc.io)
+
 
 
 
