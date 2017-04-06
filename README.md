@@ -209,6 +209,8 @@
  ---
 19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | Youtube link coming soon.
 
+     Resources poited by speaker
+
     [TestDouble](http://testdouble.com/)
 
     [Mustachify](http://mustachify.me/)
