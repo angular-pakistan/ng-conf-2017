@@ -317,6 +317,8 @@
 
     [Docker Hub](https://hub.docker.com/)
 
+    [Docker Compose](https://docs.docker.com/compose)
+
     > Angular with Docker Projects
 
     [Angular Docker Microservices](https://github.com/DanWahlin/Angular-Docker-Microservices)
@@ -328,6 +330,12 @@
     [AspNetCore with Postgre SQL - DockerApp](https://github.com/DanWahlin/AspNetCorePostgreSQLDockerApp)
 
     [CodeWithDan - DockerServices](https://github.com/DanWahlin/CodeWithDanDockerServices)
+
+    Extra Stuff ( Not part of the talk )
+
+    [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+
+    [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 
 6. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
 
