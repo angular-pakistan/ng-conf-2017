@@ -351,7 +351,13 @@
     [Ramda](http://ramdajs.com/)
 
 
-7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
+7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Slides coming soon - Video coming soon
+
+    [ngrx](https://github.com/ngrx)
+
+    [ngrx- Workshop](https://github.com/codesequence/ngrx-workshop)
+
+
 
 8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
 
