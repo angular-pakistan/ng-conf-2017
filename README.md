@@ -393,6 +393,8 @@
 
     [Webpack - How to contribute](https://github.com/webpack/webpack.js.org/blob/master/CONTRIBUTING.md)
 
+    [Webpack - How to write a plugin](https://github.com/webpack/docs/wiki/how-to-write-a-plugin)
+
     Extras
 
     [Webpack Closure Compiler - NPM](https://www.npmjs.com/package/webpack-closure-compiler)
