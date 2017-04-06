@@ -351,9 +351,9 @@
     [Ramda](http://ramdajs.com/)
 
 
-7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Slides coming soon - Video coming soon
+7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - [Github- Workshop](https://github.com/codesequence/ngrx-workshop) |  Slides coming soon - Video coming soon
 
-    [ngrx- Workshop](https://github.com/codesequence/ngrx-workshop)
+    Resources pointed by speaker
 
     [ngrx](https://github.com/ngrx)
 
