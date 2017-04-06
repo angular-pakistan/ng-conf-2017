@@ -235,8 +235,57 @@
 
 ## Day 2 Summary (April 6th, 2016)
 
-1. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] ()
+1. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] () | Youtube link coming soon.
 
+
+2. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | Youtube link coming soon.
+
+    Resources pointed by speaker
+
+    [ngtest turbo](http://ngtest-turbo.firebaseapp.com/)
+
+    [Wallaby.js](https://wallabyjs.com/)
+
+    [ngCliWebpackSample](https://github.com/wallabyjs/ngCliWebpackSample)
+
+    [Angular.io testing guides](https://angular.io/docs/ts/latest/guide/testing.html)
+
+    [Medium - Angular 2 testing guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
+
+    [Live App](ngtest-turbo.firebaseapp.com)
+
+
+2. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | Youtube link coming soon.
+
+    Resources pointed by speaker
+
+    [Dan Wahlin - Blog](https://blog.codewithdan.com/)
+
+    [John Papa - Web](https://johnpapa.net)
+
+    [Code With Dan](https://codewithdan.com/)
+
+    [Dan Wahlin - ES6 Samples](https://github.com/DanWahlin/es6samples)
+
+    [Dan Wahlin - TypeScript Demos](https://github.com/DanWahlin/TypeScriptDemos)
+
+    [Angular Jumpstart](https://github.com/DanWahlin/Angular-JumpStart)
+
+    [Angular Event View CLI](https://github.com/johnpapa/angular-event-view-cli)
+
+    [TypeScript Playground](http://www.typescriptlang.org/play/)
+
+    [ES2015 Browser Support](http://kangax.github.io/compat-table/es6/)
+
+    [Pluralsight Course - John Papa & Dan Wahlin](http://jpapa.me/danandjohnfun)
+
+    [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
+
+    [Github]()
+
+    [Github]()
+
+    [Github]()
 
 > Will be updated before day 2 starts at #ngConf
 
