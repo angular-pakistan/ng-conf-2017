@@ -361,6 +361,8 @@
 
     [ngrx-store](https://github.com/ngrx/store)
 
+    [rgrx-full example Github](https://github.com/ngrx/example-app)
+
     [Redux Dev Tools - Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
     Some extra stuff ( Not pointed in the talk )
