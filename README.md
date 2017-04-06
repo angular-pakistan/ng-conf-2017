@@ -391,6 +391,20 @@
 
     [Webpack Contrib - Community supported 3rd party packages for webpack](https://github.com/webpack-contrib)
 
+    [Webpack - How to contribute](https://github.com/webpack/webpack.js.org/blob/master/CONTRIBUTING.md)
+
+    Extras
+
+    [Webpack Closure Compiler - NPM](https://www.npmjs.com/package/webpack-closure-compiler)
+
+    [Webpack Closure Compiler - Git](https://github.com/roman01la/webpack-closure-compiler)
+
+    [Webpack - Beginner's Guide](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460)
+
+    [Webpack - Whats new in Webpack Dev Server 2.0](https://medium.com/webpack/whats-new-in-webpack-dev-server-2-0-a66848c3679)
+
+    [Webpack 2.2: The final release](https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144)
+
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
 
