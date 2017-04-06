@@ -389,6 +389,8 @@
 
     [Webpack Developer Kit](https://github.com/TheLarkInn/webpack-developer-kit)
 
+    [Webpack Contrib - Community supported 3rd party packages for webpack](https://github.com/webpack-contrib)
+
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
 
