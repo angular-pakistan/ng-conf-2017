@@ -337,11 +337,27 @@
 
     [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 
-6. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
+6. `FormControl Freaks: Redux Edition` - [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) & [Renee Vrantsidis](https://twitter.com/renvrant) | [Github](https://github.com/danielfigueiredo/wizards-wizard)  | [Slides]()
 
-7. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
 
-8. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
+    Resouces pointed by speakers
+
+    [Redux](http://redux.js.org/)
+
+    [Flux](https://facebook.github.io/flux/)
+
+    [Angular Redux - ng-redux](https://github.com/angular-redux/ng-redux)
+
+    [Ramda](http://ramdajs.com/)
+
+
+
+
+7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - Coming soon
+
+8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - Coming soon
+
+9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
 
 More coming soon... Star/Bookmark this repo ....
