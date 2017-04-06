@@ -403,6 +403,8 @@
 
     [Webpack - Support Webpack Project - Buy here](https://webpack.threadless.com/)
 
+    [Webpack - Support Webpack Project on Open Collective](https://opencollective.com/webpack)
+
     Extras
 
     [Webpack Closure Compiler - NPM](https://www.npmjs.com/package/webpack-closure-compiler)
