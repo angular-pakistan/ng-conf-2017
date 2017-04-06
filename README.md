@@ -342,6 +342,8 @@
 
     Resouces pointed by speakers
 
+    [Creating Functional Forms - Architect Handout](https://angular-2-training-book.rangle.io/handout/architect/functional_forms.html)
+
     [Redux](http://redux.js.org/)
 
     [Flux](https://facebook.github.io/flux/)
