@@ -417,6 +417,10 @@ More coming soon... Star/Bookmark this repo ....
 
 > Unofficial ng doc : [ngdoc.io](http://www.ngdoc.io)
 
+> Soft Skills for Engineers [http://softskills.audio/](http://softskills.audio/)
+
+
+
 
 
 
