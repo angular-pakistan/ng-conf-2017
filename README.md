@@ -251,7 +251,7 @@
 
     [Nativescript MIP BLE - npm](https://www.npmjs.com/package/nativescript-mip-ble)
 
-    ######Bluetooth Sample Projects
+    >Bluetooth Sample Projects
 
     [Mambo Angular Service](https://www.npmjs.com/package/mambo-angular-service)
 
