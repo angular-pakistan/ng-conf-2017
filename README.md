@@ -419,6 +419,33 @@
 
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
+11. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | Youtube link coming soon.
+
+       [Uri Github](https://github.com/urigo)
+
+       [Whatsapp Clone App using GraphQL- Meteor - Ionic](https://github.com/Urigo/Ionic2-MeteorCLI-WhatsApp)
+
+       [Appolo - GraphQL - Chrome Extension](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm?hl=en-US)
+
+       [JS GraphQL- Webstorm Plugin](https://plugins.jetbrains.com/plugin/8097-js-graphql)
+
+       [Wrapping a REST API in GraphQL](http://graphql.org/blog/rest-api-graphql-wrapper/)
+
+       [Appolo Data](http://www.apollodata.com/)
+
+       [GraphQL Hub](https://www.graphqlhub.com/)
+
+       [GraphQL Hub Schemas - NPM](https://www.npmjs.com/package/graphqlhub-schemas)
+
+       [GitHub Dumps REST Calls for Facebook’s GraphQL](https://thenewstack.io/github-dumps-rest-graphql-api/)
+
+        Extra
+
+        [GraphQL & Rest](https://blog.startifact.com/posts/graphql-and-rest.html)
+
+10. `When You Can’t Use the Word “BIG BANG”` [Asim Hussain](https://twitter.com/jawache) - Resources coming soon.
+
+5. `Build, Measure, and Machine Learn with Angular` - [Anna Karpacheva](https://twitter.com/AnnaKarpacheva) and [Sumit Arora](https://twitter.com/arorasumit) - Coming soon...
 
 More coming soon... Star/Bookmark this repo ....
 
