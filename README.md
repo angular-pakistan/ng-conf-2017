@@ -351,6 +351,10 @@ More coming soon... Star/Bookmark this repo ....
 
 > Will be updated before day 3 starts at #ngConf
 
+## Workshops
+
+1. Angular Unit Testing - Tips & Tricks - [Peter Becon Darwin](https://twitter.com/petebd) - [Slides](https://goo.gl/YoKFsk)
+
 ## Misc
 
 > Live Stream - [Day 1 - Youtube](https://www.youtube.com/watch?v=7CLYUE6RUzw)
