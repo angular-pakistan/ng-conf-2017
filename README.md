@@ -537,7 +537,19 @@
     [Software Architekt](https://softwarearchitekt.at/index.aspx)
 
 
-18. `Angular Material 2 Workshop - Elad Bezalel & Paul Gschwendtner` - [Workshop -Step by Step - Github](https://github.com/EladBezalel/material2-start)
+18. `Angular Material 2 Workshop` - [Elad Bezalel](https://twitter.com/Elad_Bezalel) & [Paul Gschwendtner](https://twitter.com/DevVersion) - [Workshop -Step by Step - Github](https://github.com/EladBezalel/material2-start) | Youtube (pending)
+
+    Resources pointed by speaker
+
+    [Material 2 - Github](https://github.com/angular/material2)
+
+    [Angular Flexbox](https://github.com/angular/flex-layout)
+
+    [Angular Flex](https://github.com/angular/flex-layout)
+
+    [Material 2 - Theming your custom components](https://github.com/angular/material2/blob/master/guides/theming-your-components.md)
+
+    [Material Design - Color Pallete Spec](https://material.io/guidelines/resources/color-palettes.html)
 
 19. `Testing & Protractor Office Hours Session 1` - Coming soon ...
 
@@ -563,7 +575,7 @@
 
 28. `Firebase/Cloud Functions Workshop` - Coming soon ...
 
-29. `PrimeNG: Native UI Components for Angular` - [Kito Mann](https://twitter.com/kito99) - Youtube - Coming soon
+29. `PrimeNG: Native UI Components for Angular` - [Kito Mann](https://twitter.com/kito99) - [Slides](http://virtua.tech/slides/primeng) - Youtube - Coming soon
 
     Resources pointed by speaker
 
