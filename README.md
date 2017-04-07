@@ -91,7 +91,7 @@
     [Child Injectors - Lazy Loading](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-why-child-injector)
 
  ---
-6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](yom.nu/ng-conf-2017) | [Youtube](https://www.youtube.com/watch?v=d7fLYenKy-I)
+6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](https://jschwarty.github.io/ngconf-2017-embrace-component-tranquility/) | [Youtube](https://www.youtube.com/watch?v=d7fLYenKy-I)
 
     Slide link coming soon ...
 
