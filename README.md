@@ -770,7 +770,7 @@ More coming soon... Star/Bookmark this repo ....
 10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - [Github](github.com/angular-upgrade-examples/todo-app) - Slides coming soon - [Youtube](https://www.youtube.com/watch?v=RyY8Brjs-Hg)
 
 
-11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - [Slides]()
+11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Slides coming soon | Youtube coming soon
 
     Resources pointed by speaker
 
