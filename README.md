@@ -445,7 +445,37 @@
 
 10. `When You Can’t Use the Word “BIG BANG”` [Asim Hussain](https://twitter.com/jawache) - Resources coming soon.
 
-5. `Build, Measure, and Machine Learn with Angular` - [Anna Karpacheva](https://twitter.com/AnnaKarpacheva) and [Sumit Arora](https://twitter.com/arorasumit) - Coming soon...
+
+11. `Automatic Progressive Web Apps using the Angular Mobile Toolkit` [Maxium Salnikov](https://twitter.com/webmaxru) - [Slides](http://slides.com/webmax/pwa-ng-conf#/) | [Youtube](https://www.youtube.com/watch?v=ecu1vAO23ZM)
+
+    Resources pointed by speaker
+
+    [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_app)
+
+    [Where is --mobile?](https://mobile.angular.io)
+
+    [Angular CLI](http://cli.angular.io)
+
+    [Angular Service Worker NPM](https://www.npmjs.com/package/@angular/service-worker)
+
+    [Angular App Shell - App Shell runtime library for Angular Progressive Web Apps](https://www.npmjs.com/package/@angular/app-shell)
+
+
+12. `When You Can’t Use the Word “BIG BANG` [Asim Hussain](https://twitter.com/jawache) | [Github](https://github.com/codecraftpro/angularjs-migration-workshop) | [Youtube](https://www.youtube.com/watch?v=4p1jG2QNc4U)
+
+    Resources pointed by speaker
+
+    [Angular JS Migration Workshop Step By Step- Github](https://github.com/codecraftpro/angularjs-migration-workshop)
+
+    [Learn Angular 4 for free - Code Craft TV](https://codecraft.tv/)
+
+    [Learn Angular 4](https://codecraft.tv/courses/angular/)
+
+
+xx. `Build, Measure, and Machine Learn with Angular` - [Anna Karpacheva](https://twitter.com/AnnaKarpacheva) and [Sumit Arora](https://twitter.com/arorasumit)
+
+
+
 
 More coming soon... Star/Bookmark this repo ....
 
