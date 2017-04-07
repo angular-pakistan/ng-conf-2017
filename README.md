@@ -741,7 +741,25 @@ More coming soon... Star/Bookmark this repo ....
 
     - Implement LanguageServiceHost interface
 
-6. `Angular Form Validation` [Kara Erickson]()  - Links coming soon.
+6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | Slides coming soon | Youtube coming soon.
+
+    Resources pointed by speaker
+
+    [Form Validation](https://angular.io/docs/ts/latest/cookbook/form-validation.html)
+
+    [Intro to Angular Forms](https://www.youtube.com/watch?v=xYv9lsrV0s4&)
+
+    [Validators Design Doc](https://docs.google.com/document/d/1US9h0ORqBltl71TlEU6s76ix8SUnOLE2jabHVg9xxEA/edit)
+
+    [Angular Docs - Latest](https://angular.io/docs/ts/latest/)
+
+    Extras
+
+    [Custom Validators in Angular 2 - By Pascal](https://blog.thoughtram.io/angular/2016/03/14/custom-validators-in-angular-2.html)
+
+    [Reactive Forms Validation in Angular - By Todd Moto](https://toddmotto.com/reactive-formgroup-validation-angular-2)
+
+    [Custom Validators in Template Driven Angular Forms](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
 
 7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - Links coming soon.
 
