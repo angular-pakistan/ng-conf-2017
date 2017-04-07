@@ -811,7 +811,13 @@ More coming soon... Star/Bookmark this repo ....
 
     All links coming soon (being uploaded at this time)
 
-14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - Links coming soon.
+14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - [Slides](https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0) - Youtube coming soon
+
+    [JavaScript Promise - www](thejavascriptpromise.com)
+
+    [Building Scalable and Beautiful AngularJS Apps](http://thejavascriptpromise.com/#blogs)
+
+    [Minimal MEAN](http://thejavascriptpromise.com/#mean)
 
 15. `Create and Attend Meetups` [Ken Snyder](https://twitter.com/kencoder)  - Links coming soon.
 
