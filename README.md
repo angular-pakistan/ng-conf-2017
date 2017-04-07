@@ -765,12 +765,22 @@ More coming soon... Star/Bookmark this repo ....
 
 8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - Links coming soon.
 
-9. `Reducing package size and complexity with NgModule` [James Daniels]()  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
+9. `Reducing package size and complexity with NgModule` [James Daniels](https://twitter.com/jamesuriah?lang=en)  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
 
 10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - [Github](github.com/angular-upgrade-examples/todo-app) - Slides coming soon - [Youtube](https://www.youtube.com/watch?v=RyY8Brjs-Hg)
 
 
-11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Links coming soon.
+11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - [Slides]()
+
+    Resources pointed by speaker
+
+    [Platform Browser](https://github.com/angular/angular/tree/master/packages/platform-browser)
+
+    [Platform Server](https://github.com/angular/angular/tree/master/packages/platform-server)
+
+    [Pre Boot JS](https://github.com/angular/preboot)
+
+    [Angular Universal](https://universal.angular.io/)
 
 12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Links coming soon.
 
@@ -800,6 +810,8 @@ More coming soon... Star/Bookmark this repo ....
 > Live Stream - [Day 2 - Ballroom C - Youtube](https://www.youtube.com/watch?v=8pnQnNWabyQ)
 
 > Live Stream - [Day 2 - Ballroom A & D - Youtube](https://www.youtube.com/watch?v=_MrOw8iywC8)
+
+> Live Stream - [Day 3 - Youtube](https://www.youtube.com/watch?v=EzRZOoRXNUM)
 
 > Unofficial ng doc : [ngdoc.io](http://www.ngdoc.io)
 
