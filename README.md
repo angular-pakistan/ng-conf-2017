@@ -848,8 +848,13 @@ More coming soon... Star/Bookmark this repo ....
 
      [ngconf Demo App](http://bit.ly/ngconf-functions)
 
-18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Links coming soon.
+18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Slides coming soon. Youtube coming soon.
 
+    [Angular Style Guide](https://angular.io/styleguide)
+
+    [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer)
+
+    []()
 
 ## Workshops
 
@@ -871,6 +876,8 @@ More coming soon... Star/Bookmark this repo ....
 
 > Soft Skills for Engineers [http://softskills.audio/](http://softskills.audio/)
 
+> ngAir - ngconf2017 show [Youtube](https://www.youtube.com/watch?v=xOsb3IMor0o)
+
 ## Recaps / Summaries
 
 > [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
@@ -880,6 +887,8 @@ More coming soon... Star/Bookmark this repo ....
 > [ngConf 2017 Day 1 Review - By Jennifer Bland](https://medium.com/@ratracegrad/ngconf-2017-my-review-of-the-annual-conference-on-everything-angular-v1-v2-v4-and-soon-v5-day-bfe553c5c063)
 
 > [ngConf 2017 Day 2 Review - By Jennifer Bland](goo.gl/LD2Smb)
+
+
 
 
 
