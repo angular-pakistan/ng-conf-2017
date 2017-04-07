@@ -844,6 +844,8 @@ More coming soon... Star/Bookmark this repo ....
 
      [Firebase Official](https://firebase.google.com/)
 
+     [Cloud Functions for Firebase](https://firebase.google.com/docs/functions/)
+
      []()
 
 18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Links coming soon.
@@ -869,7 +871,7 @@ More coming soon... Star/Bookmark this repo ....
 
 > Soft Skills for Engineers [http://softskills.audio/](http://softskills.audio/)
 
-## Misc
+## Recaps / Summaries
 
 > [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
 
