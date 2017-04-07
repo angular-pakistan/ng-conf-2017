@@ -688,7 +688,7 @@ More coming soon... Star/Bookmark this repo ....
     [Victor Savkin Web](https://vsavkin.com/)
 
 
-4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll) - Slides coming soon - [Youtube](https://www.youtube.com/watch?v=j2S5OrMUj9g)
+4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll) - [Slides](http://slides.com/telerikdevrel/emoting#/)- [Youtube](https://www.youtube.com/watch?v=j2S5OrMUj9g)
 
     Resources pointed by speaker
 
