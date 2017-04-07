@@ -622,7 +622,34 @@ More coming soon... Star/Bookmark this repo ....
 
 ## Day 3 Summary (April 7th, 2016)
 
-1. `Keynote - 2` [Brad Green]() & [Rob Wormald]() - Links coming soon.
+1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - Slides - comoing soon - Youtube - coming soon.
+
+    Resources pointed by speaker
+
+    [Google Open Source - Angular](https://opensource.google.com/projects/search?q=Angular%20)
+
+    [Closure](https://developers.google.com/closure/)
+
+    [Bazel](https://bazel.build/)
+
+    ABC: Angular & Bazel with Closure
+
+    [Double Click By Google - Mobile Speed Matters](https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/)
+
+    [Part of Angular Universal becomes Platform Server - Github](https://github.com/search?q=org%3Aangular+platform)
+
+    [Part of Angular Universal becomes Platform Server - NPM](https://www.npmjs.com/package/@angular/platform-server)
+
+    [Angular Universal - Platform Server Builds - Github](https://github.com/angular/platform-server-builds)
+
+    [Angular App Shell - NPM](https://www.npmjs.com/package/@angular/app-shell)
+
+    [Angular Service Worker - NPM](https://www.npmjs.com/package/@angular/service-worker)
+
+    [Angular Univesal stays](https://github.com/angular/universal)
+
+    [AMP Project](https://www.ampproject.org/)
+
 
 2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - Links coming soon.
 
