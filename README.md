@@ -93,8 +93,6 @@
  ---
 6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](https://jschwarty.github.io/ngconf-2017-embrace-component-tranquility/) | [Youtube](https://www.youtube.com/watch?v=d7fLYenKy-I)
 
-    Slide link coming soon ...
-
  ---
 7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/) | [Demo](yom.nu/ng-conf-2017-demo)  |  [Github](yom.nu/ng-conf-2017-code) | [Youtube](https://www.youtube.com/watch?v=Oh9wj-1p2BM)
 
