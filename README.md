@@ -472,7 +472,34 @@
     [Learn Angular 4](https://codecraft.tv/courses/angular/)
 
 
-xx. `Build, Measure, and Machine Learn with Angular` - [Anna Karpacheva](https://twitter.com/AnnaKarpacheva) and [Sumit Arora](https://twitter.com/arorasumit)
+xx. `Build, Measure, and Machine Learn with Angular` - [Anna Karpacheva](https://twitter.com/AnnaKarpacheva) and [Sumit Arora](https://twitter.com/arorasumit) - [Github]() | [Slides](https://github.com/sumitarora/build-measure-machine-learn/blob/master/Build%2C%20Measure%2C%20and%20Machine%20Learn%20with%20Angular.pdf) | [Youtube](https://www.youtube.com/watch?v=P_FSpwfERAg)
+
+    Resources pointed by speakers
+
+    [Rangle.io](https://rangle.io/)
+
+    [Redux Beacon - Github](https://github.com/rangle/redux-beacon)
+
+    [Feature Toggle ng2 Redux - Github](github.com/rangle/feature-toggle-ng2-redux)
+
+    >AB Testing and Segmentation Analysis ( Following 4 links )
+
+    [Google Analytics](https://analytics.google.com/analytics/web/)
+
+    [Google Optimize](https://www.google.com/analytics/optimize/)
+
+    [Optimizely](https://www.optimizely.com/)
+
+    [Launch Darkly](https://launchdarkly.com/)
+
+    [AI Code Generator](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+    [Awesome AI - Github](https://github.com/sumitarora/awesome-ai)
+
+    [Awesome AI-UI Github](https://github.com/sumitarora/awesome-ai-ui)
+
+
+
 
 
 
