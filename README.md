@@ -880,6 +880,8 @@ More coming soon... Star/Bookmark this repo ....
 
 > [Long Term Support for Angular Announced at ng-conf 2017 - By David Iffland at InfoQ](https://www.infoq.com/news/2017/04/ng-conf-2017-keynote)
 
+> [Angular 2 - ngconf2017 - Reddit](https://www.reddit.com/r/Angular2/comments/63uku3/ngconf_2017_summary_day_1/)
+
 ## Recaps / Summaries
 
 > [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
