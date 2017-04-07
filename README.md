@@ -30,7 +30,7 @@
 
     ... [Angular V4](https://github.com/angular/angular/blob/master/CHANGELOG.md)
 
-    ... Long Term Suppor - Starting with V4 - Link not available at this time
+    ... Long Term Suppor - Starting with V4 - Official link not available at this time. Check Misc for community link.
 
  ---
 2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides]() | [Youtube](https://www.youtube.com/watch?v=h7eVZg3j_Lk)
@@ -877,6 +877,8 @@ More coming soon... Star/Bookmark this repo ....
 > Soft Skills for Engineers [http://softskills.audio/](http://softskills.audio/)
 
 > ngAir - ngconf2017 show [Youtube](https://www.youtube.com/watch?v=xOsb3IMor0o)
+
+> [Long Term Support for Angular Announced at ng-conf 2017 - By David Iffland at InfoQ](https://www.infoq.com/news/2017/04/ng-conf-2017-keynote)
 
 ## Recaps / Summaries
 
