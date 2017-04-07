@@ -532,6 +532,16 @@
     [Deploying an i18n Angular app with angular-cli, by Philippe Martin](https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358)
     [Design for internationalization, by John Saito from the Dropbox Design Team](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
 
+
+17.`Step by Step Improving Startup Performance with Lazy Loading in Angular` - [Manfred Steyer](https://twitter.com/ManfredSteyer) | [Slides]() | [Youtube](https://www.youtube.com/watch?v=8VLYjt81-fE)
+
+    Resources pointed by speaker
+
+    [Software Architekt](https://softwarearchitekt.at/index.aspx)
+
+
+
+
 More coming soon... Star/Bookmark this repo ....
 
 
