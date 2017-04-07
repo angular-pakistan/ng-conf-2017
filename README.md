@@ -235,7 +235,7 @@
 
 ## Day 2 Summary (April 6th, 2016)
 
-1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides](https://t.co/0rdQsDxETs)
+1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides](https://t.co/0rdQsDxETs) | [Youtube](https://www.youtube.com/watch?v=RE7m-BcGukQ)
 
     Resources pointed by speaker
 
@@ -266,7 +266,7 @@
 3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] () | Youtube link coming soon.
 
 
-4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | Youtube link coming soon.
+4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=QVAkTFiTr34)
 
     Resources pointed by speaker
 
@@ -337,7 +337,7 @@
 
     [Docker for Windows](https://docs.docker.com/docker-for-windows/)
 
-6. `FormControl Freaks: Redux Edition` - [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) & [Renee Vrantsidis](https://twitter.com/renvrant) | [Github - Demo](https://github.com/danielfigueiredo/wizards-wizard)  | [Slides](https://github.com/renvrant/formcontrol-freaks)
+6. `FormControl Freaks: Redux Edition` - [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) & [Renee Vrantsidis](https://twitter.com/renvrant) | [Github - Demo](https://github.com/danielfigueiredo/wizards-wizard)  | [Slides](https://github.com/renvrant/formcontrol-freaks) [Youtube](https://www.youtube.com/watch?v=vxJUBgTsLgs)
 
 
     Resouces pointed by speakers
@@ -546,11 +546,15 @@
 
 21. `DiY Angular Compiler` - Coming soon ...
 
-22. `Using Components in Angular 1.5` - Coming soon ...
+22. `Using Components in Angular 1.5` - [Youtube](https://www.youtube.com/watch?v=7eQbQN-Dzm0)
+
+     More resources coming soon ...
 
 23. `Powering Content Driven Applications with the World’s Most Popular CMS` - Coming soon ...
 
-24. `Alexa, create a voice activated chat bot.` - Coming soon
+24. `Alexa, create a voice activated chat bot.` - [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
+
+    More resourcs coming soon ...
 
 25. `The day i met Steve` - Coming soon ...
 
