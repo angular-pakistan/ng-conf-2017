@@ -838,7 +838,13 @@ More coming soon... Star/Bookmark this repo ....
     [Django Girls - start your journey with programming](https://djangogirls.org/)
 
 
-17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Links coming soon.
+17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Slides & Youtube coming soon.
+
+     [Integrate with Google Cloud Platform](https://firebase.google.com/docs/storage/gcp-integration)
+
+     [Firebase Official](https://firebase.google.com/)
+
+     []()
 
 18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Links coming soon.
 
@@ -869,9 +875,9 @@ More coming soon... Star/Bookmark this repo ....
 
 > [Summary Day 2 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day2/)
 
-> [ngConf 2017 Day 1 Review](https://medium.com/@ratracegrad/ngconf-2017-my-review-of-the-annual-conference-on-everything-angular-v1-v2-v4-and-soon-v5-day-bfe553c5c063)
+> [ngConf 2017 Day 1 Review - By Jennifer Bland](https://medium.com/@ratracegrad/ngconf-2017-my-review-of-the-annual-conference-on-everything-angular-v1-v2-v4-and-soon-v5-day-bfe553c5c063)
 
-> [ngConf 2017 Day 2 Review](goo.gl/LD2Smb)
+> [ngConf 2017 Day 2 Review - By Jennifer Bland](goo.gl/LD2Smb)
 
 
 
