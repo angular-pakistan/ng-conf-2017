@@ -174,7 +174,7 @@
  ---
 15. `There and Back Again: a developer’s tale` [Jacob Turner](https://twitter.com/JIsraelTurner) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=IFblumxIFW8)
  ---
-16. `The Little Tool That Dreams Big` [Hans Larsen](https://twitter.com/hanslatwork) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=f9hhzDZXWPM)
+16. `The Little Tool That Dreams Big` [Hans Larsen](https://twitter.com/hanslatwork) - [Slides](https://docs.google.com/presentation/d/12AUE0Tyy-3fCSGCjeBBImT0MVLzJG6h__1Bvt0ZKBYw/edit#slide=id.g1d5c0db042_1_0) | [Youtube](https://www.youtube.com/watch?v=f9hhzDZXWPM)
 
     Resources pointed by speaker
 
@@ -788,7 +788,15 @@ More coming soon... Star/Bookmark this repo ....
 
     [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-13. `Packaging Angular` [Jason Aden]()  - Links coming soon.
+13. `Packaging Angular` [Jason Aden](https://www.linkedin.com/in/jasonaden/)  - Slides coming soon. | Youtube coming soon.
+
+    Resources pointed by speaker
+
+    [Angular NGC Compiler](https://www.npmjs.com/package/@angular/compiler-cli) - Produces .d.ts & .js .metadata.json & more
+
+    [TypeScript Compiler Options in ts.config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) declaration:true, module:es2015 ,target:es5 , angularCompilerOptions : { strictMetadataEmit: true , skipTemplateCodeGen: true }
+
+    []()
 
 14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - Links coming soon.
 
@@ -821,8 +829,13 @@ More coming soon... Star/Bookmark this repo ....
 
 > Soft Skills for Engineers [http://softskills.audio/](http://softskills.audio/)
 
+## Misc
 
+> [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
 
+> [Summary Day 2 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day2/)
+
+> []
 
 
 
