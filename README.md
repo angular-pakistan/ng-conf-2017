@@ -539,6 +539,7 @@
 
     [Software Architekt](https://softwarearchitekt.at/index.aspx)
 
+
 18. `Angular Material 2 Workshop - Elad Bezalel & Paul Gschwendtner` - Coming soon...
 
 19. `Testing & Protractor Office Hours Session 1` - Coming soon ...
