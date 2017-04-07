@@ -263,7 +263,7 @@
 
 2. `Angular Performance Birds of a Feather` - [Jeff Cross](https://twitter.com/jeffbcross)  - Coming soon
 
-3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Github](https://github.com/danielfigueiredo/rxjs-goodparts) | [Slides] () | Youtube link coming soon.
+3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Slides](https://github.com/danielfigueiredo/rxjs-goodparts) | [Youtube](https://www.youtube.com/watch?v=TszoFCFydiM)
 
 
 4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=QVAkTFiTr34)
@@ -493,9 +493,7 @@
 
     [Awesome AI-UI Github](https://github.com/sumitarora/awesome-ai-ui)
 
-
-
-14. `The Memory Leak Brain Drain - Workshop` [Jon Boyd](https://twitter.com/biznasapps) - [Slides](https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-1-hour-talk) |  Youtube coming soon...
+14. `The Memory Leak Brain Drain - Workshop` [Jon Boyd](https://twitter.com/biznasapps) - [Slides](https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-1-hour-talk) |  [Youtube](https://www.youtube.com/watch?v=nS53gCp2swc)
 
     [Biznas Blog](https://biznas.io/blog/)
 
@@ -811,7 +809,7 @@ More coming soon... Star/Bookmark this repo ....
 
     All links coming soon (being uploaded at this time)
 
-14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - [Slides](https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0) - Youtube coming soon
+14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - [Slides](https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0) - [Youtube](https://www.youtube.com/watch?v=Sd1aM8181kc)
 
     [JavaScript Promise - www](thejavascriptpromise.com)
 
@@ -819,9 +817,9 @@ More coming soon... Star/Bookmark this repo ....
 
     [Minimal MEAN](http://thejavascriptpromise.com/#mean)
 
-15. `Create and Attend Meetups` [Ken Snyder](https://twitter.com/kencoder)  - Links coming soon.
+15. `Create and Attend Meetups` [Ken Snyder](https://twitter.com/kencoder)  - [Youtube](https://www.youtube.com/watch?v=siGPF6Eng5A)
 
-16. `ngGirls Just Want to Have Fun` [Shmuela Jacobs](https://twitter.com/ShmuelaJ)  - Slides coming soon. Youtube coming soon.
+16. `ngGirls Just Want to Have Fun` [Shmuela Jacobs](https://twitter.com/ShmuelaJ)  - Slides coming soon. [Youtube](https://www.youtube.com/watch?v=DTBCJ92FDUI)
 
     [ngGirl.org - www](http://ng-girls.org/)
 
@@ -838,7 +836,7 @@ More coming soon... Star/Bookmark this repo ....
     [Django Girls - start your journey with programming](https://djangogirls.org/)
 
 
-17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Slides & Youtube coming soon.
+17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Slides coming soon. [Youtube](https://www.youtube.com/watch?v=kG71Hg9cUhQ)
 
      [Integrate with Google Cloud Platform](https://firebase.google.com/docs/storage/gcp-integration)
 
