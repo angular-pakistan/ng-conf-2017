@@ -573,6 +573,8 @@
 
     [Glitch](https://glitch.com/)
 
+    [Alexa Wookieepedia Info Skill](https://support.glitch.com/t/chewy-alexa-wookieepedia-info-skill/837)
+
 25. `The day i met Steve` - Coming soon ...
 
 26. `TypeScript: What’s New in 2.2` - Coming soon ...
