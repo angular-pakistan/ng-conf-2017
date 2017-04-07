@@ -796,7 +796,20 @@ More coming soon... Star/Bookmark this repo ....
 
     [TypeScript Compiler Options in ts.config](https://www.typescriptlang.org/docs/handbook/compiler-options.html) declaration:true, module:es2015 ,target:es5 , angularCompilerOptions : { strictMetadataEmit: true , skipTemplateCodeGen: true }
 
-    []()
+    also do flatModuleOutFile + flatModuleId
+
+    and for advanced optimization , use annotateForClosureCompiler
+
+
+    [Cost of Small Modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
+
+    **Strategy**
+
+    Publish fewer ES Modules, Use rollup,Flat ECMAScript Module(FESM), Inline Template & Styles
+
+    Final Resource Summary
+
+    All links coming soon (being uploaded at this time)
 
 14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - Links coming soon.
 
