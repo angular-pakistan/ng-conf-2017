@@ -821,7 +821,22 @@ More coming soon... Star/Bookmark this repo ....
 
 15. `Create and Attend Meetups` [Ken Snyder](https://twitter.com/kencoder)  - Links coming soon.
 
-16. `ngGirls Just Want to Have Fun` [Shmuela Jacobs](https://twitter.com/ShmuelaJ)  - Links coming soon.
+16. `ngGirls Just Want to Have Fun` [Shmuela Jacobs](https://twitter.com/ShmuelaJ)  - Slides coming soon. Youtube coming soon.
+
+    [ngGirl.org - www](http://ng-girls.org/)
+
+    [ngGirls - Angular Tutorial for Beginners - Github Book](https://ng-girls.gitbooks.io/todo-list-tutorial/)
+
+    [ngGirls - Github](https://github.com/ng-girls)
+
+    [ngGirls - Salt Lake City - Call for Mentors](http://ng-girls.org/ng-conf/)
+
+    [Debugging the gender gap](https://www.codedoc.co/)
+
+    [Breaking Bias : Joe Eames NGNL Talk](https://www.youtube.com/watch?v=ia1rhbO-NY0)
+
+    [Django Girls - start your journey with programming](https://djangogirls.org/)
+
 
 17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Links coming soon.
 
@@ -854,7 +869,10 @@ More coming soon... Star/Bookmark this repo ....
 
 > [Summary Day 2 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day2/)
 
-> []
+> [ngConf 2017 Day 1 Review](https://medium.com/@ratracegrad/ngconf-2017-my-review-of-the-annual-conference-on-everything-angular-v1-v2-v4-and-soon-v5-day-bfe553c5c063)
+
+> [ngConf 2017 Day 2 Review](goo.gl/LD2Smb)
+
 
 
 
