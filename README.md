@@ -500,7 +500,11 @@
 
 
 
+14. `The Memory Leak Brain Drain - Workshop` [Jon Boyd](https://twitter.com/biznasapps) - [Slides](https://www.slideshare.net/biznasapps/ngconf2017-memory-leak-brain-drain-1-hour-talk) |  Youtube coming soon...
 
+    [Biznas Blog](https://biznas.io/blog/)
+
+    [More about Brain Drain](https://biznas.io/blog/2017/04/05/ngconf2017-memory-leak-brain-drain-talk-by-biznas-lead-dev-jon-boyd/)
 
 
 
