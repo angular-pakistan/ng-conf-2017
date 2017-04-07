@@ -507,6 +507,8 @@
     [More about Brain Drain](https://biznas.io/blog/2017/04/05/ngconf2017-memory-leak-brain-drain-talk-by-biznas-lead-dev-jon-boyd/)
 
 
+15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | Slides -Coming soon | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
+
 
 More coming soon... Star/Bookmark this repo ....
 
