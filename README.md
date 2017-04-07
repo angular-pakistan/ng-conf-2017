@@ -563,9 +563,15 @@
 
 23. `Powering Content Driven Applications with the World’s Most Popular CMS` - Coming soon ...
 
-24. `Alexa, create a voice activated chat bot.` - [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
+24. `Alexa, create a voice activated chat bot.` - [Github](https://github.com/thack/ngconf17.git) | [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
 
-    More resourcs coming soon ...
+    Resources pointed by speaker
+
+    [Alexa Workshop - Step by Step - Github](https://github.com/thack/ngconf17)
+
+    [Amazon Developer Service](https://developer.amazon.com/)
+
+    [Glitch](https://glitch.com/)
 
 25. `The day i met Steve` - Coming soon ...
 
