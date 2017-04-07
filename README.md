@@ -417,7 +417,7 @@
 
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
-10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | Youtube link coming soon.
+10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | [Youtube](https://www.youtube.com/watch?v=rb5i8Bs7-k0)
 
        [Uri Github](https://github.com/urigo)
 
@@ -622,7 +622,7 @@ More coming soon... Star/Bookmark this repo ....
 
 ## Day 3 Summary (April 7th, 2016)
 
-1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - Slides - comoing soon - Youtube - coming soon.
+1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - Slides - comoing soon - [Youtube](https://www.youtube.com/watch?v=Nj9_p4qvm5U)
 
     Resources pointed by speaker
 
@@ -657,13 +657,13 @@ More coming soon... Star/Bookmark this repo ....
     [AMP Project](https://www.ampproject.org/)
 
 
-2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - Links coming soon.
+2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - [Youtube](https://www.youtube.com/watch?v=7w7zq8fKMvo&feature=youtu.be)
 
     Resources pointed by speaker ( not really :D )
 
     [Routing & Navigation](https://angular.io/docs/ts/latest/guide/router.html)
 
-    Princess Guard - Let us know if you can find the link ;)
+    [Princess Guard](https://www.youtube.com/watch?v=7w7zq8fKMvo&feature=youtu.be)
 
 3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin) | Slides - coming soon / Youtube - coming soon
 
@@ -688,7 +688,7 @@ More coming soon... Star/Bookmark this repo ....
     [Victor Savkin Web](https://vsavkin.com/)
 
 
-4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll) - Slides coming soon - Youtube coming soon.
+4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll) - Slides coming soon - [Youtube](https://www.youtube.com/watch?v=j2S5OrMUj9g)
 
     Resources pointed by speaker
 
@@ -719,7 +719,7 @@ More coming soon... Star/Bookmark this repo ....
     [Angular Emoji Filter](https://github.com/globaldev/angular-emoji-filter)
 
 
-5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Slides coming soon | Youtube coming soon.
+5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Slides coming soon | [Youtube](https://www.youtube.com/watch?v=ez3R0Gi4z5A)
 
     Resources pointed by speaker
 
@@ -741,7 +741,7 @@ More coming soon... Star/Bookmark this repo ....
 
     - Implement LanguageServiceHost interface
 
-6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | Slides coming soon | Youtube coming soon.
+6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | Slides coming soon | [Youtube](https://www.youtube.com/watch?v=kM5QBOWrUVI)
 
     Resources pointed by speaker
 
@@ -761,11 +761,11 @@ More coming soon... Star/Bookmark this repo ....
 
     [Custom Validators in Template Driven Angular Forms](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
 
-7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - Links coming soon.
+7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - [Youtube](https://www.youtube.com/watch?v=MMxJe4W1P4A)
 
 8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - Links coming soon.
 
-9. `Reducing package size and complexity with NgModule` [James Daniels]()  - Links coming soon.
+9. `Reducing package size and complexity with NgModule` [James Daniels]()  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
 
 10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - Links coming soon.
 
