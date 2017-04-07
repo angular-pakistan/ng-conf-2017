@@ -719,7 +719,27 @@ More coming soon... Star/Bookmark this repo ....
     [Angular Emoji Filter](https://github.com/globaldev/angular-emoji-filter)
 
 
-5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Links coming soon.
+5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Slides coming soon | Youtube coming soon.
+
+    Resources pointed by speaker
+
+    [Angular Language Service - NPM](https://www.npmjs.com/package/@angular/language-service)
+
+    [Angular Lanuguage Service for VSCode - Github](https://github.com/angular/vscode-ng-language-service)
+
+    [Angular Language Service - Visual Studio Marketplace - Download](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
+
+    [WebStorm 2017.1 Supports Angular Language Service - Read more](https://blog.jetbrains.com/webstorm/2016/12/webstorm-2017-1-early-access-preview/)
+
+    [Angular Language Service - Download Latest Webstorm](https://www.jetbrains.com/webstorm/download/)
+
+    [TypeScript Next](https://www.npmjs.com/package/typescript)  npm install -g typescript@next
+
+    [Sublime TypeScript Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+
+    Custom Editor Integration
+
+    - Implement LanguageServiceHost interface
 
 6. `Angular Form Validation` [Kara Erickson]()  - Links coming soon.
 
