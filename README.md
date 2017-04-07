@@ -563,7 +563,7 @@
 
 23. `Powering Content Driven Applications with the World’s Most Popular CMS` - Coming soon ...
 
-24. `Alexa, create a voice activated chat bot.` - [Github](https://github.com/thack/ngconf17.git) | [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
+24. `Alexa, create a voice activated chat bot.` [Terence Carrol](https://twitter.com/thack) - [Github](https://github.com/thack/ngconf17.git) | [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
 
     Resources pointed by speaker
 
