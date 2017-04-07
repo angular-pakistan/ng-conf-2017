@@ -374,7 +374,7 @@
     [Redux Dev Tools Extensions - NPM ](https://www.npmjs.com/package/redux-devtools-extension)
 
 
-8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - [Github - Everything is a plugin](https://github.com/TheLarkInn/everything-is-a-plugin) | Slides coming soon.
+8. `Everything is a plugin! Mastering webpack from the inside-out.` - [Sean Larkin](https://twitter.com/TheLarkInn)  - [Github - Everything is a plugin](https://github.com/TheLarkInn/everything-is-a-plugin) | [Slides](https://docs.google.com/presentation/d/11lzTCDkXwqjhvIQ4K-NtO2ChJVpdnWtblQLpmo7obGo/edit#slide=id.p)
 
 
     Resources pointed by speaker
