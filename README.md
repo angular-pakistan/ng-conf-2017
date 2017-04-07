@@ -659,7 +659,34 @@ More coming soon... Star/Bookmark this repo ....
 
 2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - Links coming soon.
 
-3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin)  - Links coming soon.
+    Resources pointed by speaker ( not really :D )
+
+    [Routing & Navigation](https://angular.io/docs/ts/latest/guide/router.html)
+
+    Princess Guard - Let us know if you can find the link ;)
+
+3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin) | Slides - coming soon / Youtube - coming soon
+
+    Resourcs pointed by speaker
+
+    [nrwl.io](nrwl.io)
+
+    [nrwl blog](blog.nrwl.io)
+
+    [Essential Angular Book](https://leanpub.com/essential_angular)
+
+    [Angular Routing Book](https://leanpub.com/router)
+
+    [Free Angular Router Book](http://leanpub.com/router/c/ngconf)
+
+    [Free Essential Angular Book](https://gumroad.com/l/essential_angular/ngconf)
+
+    [Upgrading Angular Applications  - Upcoming book](https://leanpub.com/ngupgrade)
+
+    [Victor Savkin : Migrating Angular 1 Applications to Latest Angular in 5 Simple Steps](https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b)
+
+    [Victor Savkin Web](https://vsavkin.com/)
+
 
 4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll)  - Links coming soon.
 
