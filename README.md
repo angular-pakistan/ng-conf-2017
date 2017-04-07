@@ -846,7 +846,7 @@ More coming soon... Star/Bookmark this repo ....
 
      [Cloud Functions for Firebase](https://firebase.google.com/docs/functions/)
 
-     []()
+     [ngconf Demo App](http://bit.ly/ngconf-functions)
 
 18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Links coming soon.
 
