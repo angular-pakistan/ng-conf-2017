@@ -885,6 +885,8 @@ More coming soon... Star/Bookmark this repo ....
 
 > [Angular - Wallpaper](http://imgur.com/zRkZC0E) from [Andrew Hainen](https://twitter.com/ahainen)
 
+> [ng-conf official photo slideshow](http://bit.ly/2ohWNiZ)
+
 ## Recaps / Summaries
 
 > [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
