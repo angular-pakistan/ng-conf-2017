@@ -577,7 +577,18 @@
 
 25. `The day i met Steve` - Coming soon ...
 
-26. `TypeScript: What’s New in 2.2` - Coming soon ...
+26. `TypeScript: What’s New in 2.2` - [Daniel Rossenwasser](https://twitter.com/drosenwasser) - Youtube link coming soon.
+
+    [TypeScript 2.1](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-1.html)
+
+    [TypeScript 2.2 Announcement](https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/)
+
+    [TypeScript Roadmap 2.3 and beyond](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
+
+    [TypeScript - Github](https://github.com/Microsoft/TypeScript)
+
+    [TypeScript - Gitter](https://gitter.im/Microsoft/TypeScript)
+
 
 27. `Voice User Interfaces with Angular` - Coming soon ...
 
