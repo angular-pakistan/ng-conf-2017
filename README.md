@@ -528,9 +528,11 @@
     [Design for internationalization, by John Saito from the Dropbox Design Team](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
 
 
-17.`Step by Step Improving Startup Performance with Lazy Loading in Angular` - [Manfred Steyer](https://twitter.com/ManfredSteyer) | [Slides]() | [Youtube](https://www.youtube.com/watch?v=8VLYjt81-fE)
+17.`Step by Step Improving Startup Performance with Lazy Loading in Angular` - [Manfred Steyer](https://twitter.com/ManfredSteyer) | [Slides](https://speakerdeck.com/manfredsteyer/improving-start-up-performance-with-lazy-loading-in-angular-3) | [Youtube](https://www.youtube.com/watch?v=8VLYjt81-fE)
 
     Resources pointed by speaker
+
+    [Lazy Loading - Sample Code - Github](https://github.com/manfredsteyer/lazy-loading-ng-conf)
 
     [Software Architekt](https://softwarearchitekt.at/index.aspx)
 
