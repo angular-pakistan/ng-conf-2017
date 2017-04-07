@@ -636,6 +636,12 @@ More coming soon... Star/Bookmark this repo ....
 
     [Double Click By Google - Mobile Speed Matters](https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/)
 
+    [Angular Platform Server - Github](https://github.com/angular/angular/tree/master/packages/platform-server)
+
+    [Angular Platform Webworker](https://github.com/angular/angular/tree/master/packages/platform-webworker)
+
+    [Angular Platform Webworker Dynamic](https://github.com/angular/angular/tree/master/packages/platform-webworker-dynamic)
+
     [Part of Angular Universal becomes Platform Server - Github](https://github.com/search?q=org%3Aangular+platform)
 
     [Part of Angular Universal becomes Platform Server - NPM](https://www.npmjs.com/package/@angular/platform-server)
