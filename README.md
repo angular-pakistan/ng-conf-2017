@@ -266,7 +266,7 @@
 3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Slides](https://github.com/danielfigueiredo/rxjs-goodparts) | [Youtube](https://www.youtube.com/watch?v=TszoFCFydiM)
 
 
-4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=QVAkTFiTr34)
+4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=wj3dStoEhso)
 
     Resources pointed by speaker
 
@@ -283,7 +283,7 @@
     [Live App](ngtest-turbo.firebaseapp.com)
 
 
-5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | Youtube link coming soon.
+5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=i3iNDdshgrc)
 
     Resources pointed by speaker
 
@@ -309,7 +309,7 @@
 
     [Angular 4 TypeScript and HTML Snippets for VS Code](https://blog.codewithdan.com/2017/04/01/angular-2-typescript-and-html-snippets-for-vs-code/)
 
-5. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - [Slides](http://codewithdan.me/angular-docker) | Youtube link coming soon.
+5. `Docker: What Every Angular Developer Should Know About It!` - [Dan Wahlin](http://twitter.com/DanWahlin) - [Slides](http://codewithdan.me/angular-docker) | [Youtube](https://www.youtube.com/watch?v=socWfhPJptE)
 
     Resouces pointed by speaker
 
@@ -353,7 +353,7 @@
     [Ramda](http://ramdajs.com/)
 
 
-7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - [Github- Workshop](https://github.com/codesequence/ngrx-workshop) |  Slides coming soon - Video coming soon
+7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - [Github- Workshop](https://github.com/codesequence/ngrx-workshop) |  Slides coming soon - [Youtube](https://www.youtube.com/watch?v=cyaAhXHhxgk)
 
     Resources pointed by speaker
 
@@ -575,7 +575,7 @@
 
 25. `The day i met Steve` - Coming soon ...
 
-26. `TypeScript: What’s New in 2.2` - [Daniel Rossenwasser](https://twitter.com/drosenwasser) - Youtube link coming soon.
+26. `TypeScript: What’s New in 2.2` - [Daniel Rossenwasser](https://twitter.com/drosenwasser) - [Youtube](https://www.youtube.com/watch?v=0Q1lQKE2qbI)
 
     [TypeScript 2.1](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-1.html)
 
@@ -590,7 +590,9 @@
 
 27. `Voice User Interfaces with Angular` - Coming soon ...
 
-28. `Firebase/Cloud Functions Workshop` - Coming soon ...
+28. `Firebase/Cloud Functions Workshop` - [Youtube](https://www.youtube.com/watch?v=QVAkTFiTr34)
+
+    [ngconf Cloud Functions](codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular)
 
 29. `PrimeNG: Native UI Components for Angular` - [Kito Mann](https://twitter.com/kito99) - [Slides](http://virtua.tech/slides/primeng) - Youtube - Coming soon
 
@@ -768,7 +770,7 @@ More coming soon... Star/Bookmark this repo ....
 10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - [Github](github.com/angular-upgrade-examples/todo-app) - Slides coming soon - [Youtube](https://www.youtube.com/watch?v=RyY8Brjs-Hg)
 
 
-11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Slides coming soon | Youtube coming soon
+11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Slides coming soon | [Youtube](https://www.youtube.com/watch?v=oXt-d2qG2po)
 
     Resources pointed by speaker
 
@@ -780,7 +782,7 @@ More coming soon... Star/Bookmark this repo ....
 
     [Angular Universal](https://universal.angular.io/)
 
-12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Slides coming soon. Youtube coming soon.
+12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Slides coming soon. [Youtube](https://www.youtube.com/watch?v=34qOyGf8LEo)
 
     Resources pointed by speaker
 
