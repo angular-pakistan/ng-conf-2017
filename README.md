@@ -563,7 +563,27 @@
 
 28. `Firebase/Cloud Functions Workshop` - Coming soon ...
 
-29. `PrimeNG: Native UI Components for Angular` - Coming soon ...
+29. `PrimeNG: Native UI Components for Angular` - [Kito Mann](https://twitter.com/kito99) - Youtube - Coming soon
+
+    Resources pointed by speaker
+
+    [Prime NG - www](https://www.primefaces.org/primeng/#/)
+
+    [Prime NG - Github](https://github.com/primefaces/primeng)
+
+    [Prime Faces](https://github.com/primefaces)
+
+    [Ultime for PrimeNG](https://www.primefaces.org/layouts/ultima-ng/)
+
+    [Poseidon for PrimeNG](https://www.primefaces.org/poseidon-ng/#/)
+
+    [Appolo for PrimeNG](https://www.primefaces.org/layouts/apollo/)
+
+    [PrimeNG Playground](https://github.com/kosz/primeng-playground)
+
+    [Virtua Tech](http://virtua.tech)
+
+    [Enterprise Java News](http://enterprisejavanews.com/)
 
 
 More coming soon... Star/Bookmark this repo ....
