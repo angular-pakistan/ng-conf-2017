@@ -688,7 +688,36 @@ More coming soon... Star/Bookmark this repo ....
     [Victor Savkin Web](https://vsavkin.com/)
 
 
-4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll)  - Links coming soon.
+4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll) - Slides coming soon - Youtube coming soon.
+
+    Resources pointed by speaker
+
+    [Emoting NG - www](https://emoting.me/)
+
+    [Nativescript](https://www.nativescript.org/)
+
+    [Nativescript Observables](https://docs.nativescript.org/cookbook/data/observable)
+
+    [Firebase](https://firebase.google.com/)
+
+    [Nativescript Firebase Plugin](https://github.com/EddyVerbruggen/nativescript-plugin-firebase)
+
+    [Nativescript Loading Indicator NPM](https://www.npmjs.com/package/nativescript-loading-indicator)
+
+    [Nativescript Dialog NPM](https://www.npmjs.com/package/nativescript-dialog)
+
+    [Angular Fire 2](https://github.com/angular/angularfire2)
+
+    Extras (not directly from the talk)
+
+    [Emoji Unicode Table](https://apps.timwhitlock.info/emoji/tables/unicode)
+
+    [ngEmotions](https://github.com/ritz078/ngEmoticons)
+
+    [Angular Emoji Popup](https://github.com/Coraza/angular-emoji-popup)
+
+    [Angular Emoji Filter](https://github.com/globaldev/angular-emoji-filter)
+
 
 5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Links coming soon.
 
