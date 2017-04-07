@@ -782,7 +782,11 @@ More coming soon... Star/Bookmark this repo ....
 
     [Angular Universal](https://universal.angular.io/)
 
-12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Links coming soon.
+12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Slides coming soon. Youtube coming soon.
+
+    Resources pointed by speaker
+
+    [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 13. `Packaging Angular` [Jason Aden]()  - Links coming soon.
 
