@@ -510,6 +510,28 @@
 15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | Slides -Coming soon | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
 
 
+16. `Lost in Translation` [Oliver Combe]() | [Slides](https://docs.google.com/presentation/d/1l7kr_OdSxiobAVkTrMG-LGxqsJcj9Fd1zJTNpVXSu7A/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=dihyu1a2bPc)
+
+    Resourcs pointed by speaker
+
+    [Plural Rules](http://cldr.unicode.org/index/cldr-spec/plural-rules)
+
+    [Workshop - Demo ](https://github.com/ocombe/i18n-demo)
+
+    > Translation tools
+
+    [Text United (xmb)](http://www.textunited.com)
+    [Crowdin (xlf)](http://www.crowdin.com)
+    [OneSky (xlf)](http://www.oneskyapp.com)
+
+    > Other resources
+
+    [Translation spreadsheet](goo.gl/AVOTtg)
+    [ngx-i18n-support](github.com/martinroob/ngx-i18nsupport)
+    [Ames app](github.com/StephenFluin/ames)
+    [Deploying an i18n Angular app with angular-cli, by Philippe Martin](https://medium.com/@feloy/deploying-an-i18n-angular-app-with-angular-cli-fc788f17e358)
+    [Design for internationalization, by John Saito from the Dropbox Design Team](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
+
 More coming soon... Star/Bookmark this repo ....
 
 
