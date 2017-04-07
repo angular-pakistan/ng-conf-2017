@@ -417,7 +417,7 @@
 
 9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
 
-11. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | Youtube link coming soon.
+10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | Youtube link coming soon.
 
        [Uri Github](https://github.com/urigo)
 
@@ -441,9 +441,6 @@
 
         [GraphQL & Rest](https://blog.startifact.com/posts/graphql-and-rest.html)
 
-10. `When You Can’t Use the Word “BIG BANG”` [Asim Hussain](https://twitter.com/jawache) - Resources coming soon.
-
-
 11. `Automatic Progressive Web Apps using the Angular Mobile Toolkit` [Maxium Salnikov](https://twitter.com/webmaxru) - [Slides](http://slides.com/webmax/pwa-ng-conf#/) | [Youtube](https://www.youtube.com/watch?v=ecu1vAO23ZM)
 
     Resources pointed by speaker
@@ -459,7 +456,7 @@
     [Angular App Shell - App Shell runtime library for Angular Progressive Web Apps](https://www.npmjs.com/package/@angular/app-shell)
 
 
-12. `When You Can’t Use the Word “BIG BANG` [Asim Hussain](https://twitter.com/jawache) | [Github](https://github.com/codecraftpro/angularjs-migration-workshop) | [Youtube](https://www.youtube.com/watch?v=4p1jG2QNc4U)
+12. `When You Can’t Use the Word “BIG BANG` [Asim Hussain](https://twitter.com/jawache) | [Slides](https://www.slideshare.net/jawache/migrating-from-angularjs-when-you-cant-use-the-word-big-bang) |  [Github](https://github.com/codecraftpro/angularjs-migration-workshop) | [Youtube](https://www.youtube.com/watch?v=4p1jG2QNc4U)
 
     Resources pointed by speaker
 
