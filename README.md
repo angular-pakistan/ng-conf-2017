@@ -622,7 +622,43 @@ More coming soon... Star/Bookmark this repo ....
 
 ## Day 3 Summary (April 7th, 2016)
 
-> Will be updated before day 3 starts at #ngConf
+1. `Keynote - 2` [Brad Green]() & [Rob Wormald]() - Links coming soon.
+
+2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - Links coming soon.
+
+3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin)  - Links coming soon.
+
+4. `Building EmotiNg: The Real-Time Cross-Platform Service You’ve Always Wanted 👌` [Jen Looper](https://twitter.com/jenlooper) and [Tara Manicsic](https://twitter.com/Tzmanics) and [TJ Vantoll](https://twitter.com/tjvantoll)  - Links coming soon.
+
+5. `Using the Angular Template Language Service` [Chuck Jazdzewski](https://twitter.com/chuckjaz)  - Links coming soon.
+
+6. `Angular Form Validation` [Kara Erickson]()  - Links coming soon.
+
+7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - Links coming soon.
+
+8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - Links coming soon.
+
+9. `Reducing package size and complexity with NgModule` [James Daniels]()  - Links coming soon.
+
+10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - Links coming soon.
+
+
+11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Links coming soon.
+
+12. `Giving Bootstrap the Boot` [Alyssa Nicoll](https://twitter.com/AlyssaNicoll)  - Links coming soon.
+
+13. `Packaging Angular` [Jason Aden]()  - Links coming soon.
+
+14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - Links coming soon.
+
+15. `Create and Attend Meetups` [Ken Snyder](https://twitter.com/kencoder)  - Links coming soon.
+
+16. `ngGirls Just Want to Have Fun` [Shmuela Jacobs](https://twitter.com/ShmuelaJ)  - Links coming soon.
+
+17. `Firebase and Google Cloud Functions: Serverless Peanut Butter and Jelly` [Bret Mcgowen](https://twitter.com/bretmcg)  - Links coming soon.
+
+18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Links coming soon.
+
 
 ## Workshops
 
