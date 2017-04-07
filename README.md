@@ -767,7 +767,7 @@ More coming soon... Star/Bookmark this repo ....
 
 9. `Reducing package size and complexity with NgModule` [James Daniels]()  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
 
-10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - Links coming soon.
+10. `Addicted to AngularJS?` [Peter Becon Darwin](https://twitter.com/petebd) and [George Kalpakas](https://twitter.com/gkalpakas) - [Github](github.com/angular-upgrade-examples/todo-app) - Slides coming soon - Youtube coming soon.
 
 
 11. `Angular Pre-Rendering for SEO, Speed, and Happy Users` [Jeff Cross](https://twitter.com/jeffbcross)  - Links coming soon.
