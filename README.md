@@ -899,6 +899,8 @@ More coming soon... Star/Bookmark this repo ....
 
 > [ngConf 2017 Day 2 Review - By Jennifer Bland](goo.gl/LD2Smb)
 
+> [ngConf 2017 Day 3 Review - By Jennifer Bland](https://goo.gl/UGY5oV)
+
 
 
 
