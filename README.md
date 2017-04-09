@@ -755,7 +755,7 @@ More coming soon... Star/Bookmark this repo ....
 
     - Implement LanguageServiceHost interface
 
-6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | Slides coming soon | [Youtube](https://www.youtube.com/watch?v=kM5QBOWrUVI)
+6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | [Slides](https://docs.google.com/presentation/d/1jn52fjrmvuXn5Jv2gP8ckETiKCW057Q63faMRfW3bkw/pub?start=false&loop=false&delayms=3000&slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=kM5QBOWrUVI)
 
     Resources pointed by speaker
 
