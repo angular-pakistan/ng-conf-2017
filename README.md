@@ -115,7 +115,7 @@
     [hirez.io](https://hirez.io/)
 
  ---
-9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=Lkda4xNPi5M)
+9. `Keeping the Sand Out of Your Eyes: No Sandbox, No Problem` [Tim Ehat](https://twitter.com/tim_ehat) - [Slides](https://drive.google.com/file/d/0B9CWa-AmFMvHR0hTVTEyQWdNMFk/view) | [Youtube](https://www.youtube.com/watch?v=Lkda4xNPi5M)
 
     Resources pointed by speaker
 
@@ -207,7 +207,7 @@
     [Google Cloud Vision](https://cloud.google.com/vision/)
 
  ---
-19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=7YB1I5h2ujw)
+19. `How to Scratch an Itch` [Justin Searls](https://twitter.com/searls) - [Slides](http://blog.testdouble.com/posts/2016-12-01-a-creativity-talk.html) | [Youtube](https://www.youtube.com/watch?v=7YB1I5h2ujw)
 
      Resources poited by speaker
 
@@ -268,7 +268,7 @@
 3. `RxJS: The Good Parts` - [Christopher Gosselin](https://twitter.com/ConcertCoder) and [Daniel Figueiredo Caetano](https://twitter.com/danfigueiredoc) [Slides](https://github.com/danielfigueiredo/rxjs-goodparts) | [Youtube](https://www.youtube.com/watch?v=TszoFCFydiM)
 
 
-4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides] (https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=wj3dStoEhso)
+4. `Turbocharge Your Angular Testing Workflow` - [Victor Mejia](https://twitter.com/_victormejia?lang=en)  [Github](https://github.com/victormejia/ngconf2017-test-demo) | [Slides](https://ngtest-turbo.firebaseapp.com) | [Youtube](https://www.youtube.com/watch?v=wj3dStoEhso)
 
     Resources pointed by speaker
 
@@ -285,7 +285,7 @@
     [Live App](ngtest-turbo.firebaseapp.com)
 
 
-5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides] (http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=i3iNDdshgrc)
+5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides](http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=i3iNDdshgrc)
 
     Resources pointed by speaker
 
@@ -355,7 +355,7 @@
     [Ramda](http://ramdajs.com/)
 
 
-7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - [Github- Workshop](https://github.com/codesequence/ngrx-workshop) |  Slides coming soon - [Youtube](https://www.youtube.com/watch?v=cyaAhXHhxgk)
+7. `From Inactive to Reactive with ngrx` - [Brandon Roberts](https://twitter.com/brandontroberts) & [Mike Ryan](https://twitter.com/MikeRyan52) - [Github- Workshop](https://github.com/codesequence/ngrx-workshop) |  [Slides](https://codesequence.github.io/ngrx-workshop/assets/player/KeynoteDHTMLPlayer.html#0) - [Youtube](https://www.youtube.com/watch?v=cyaAhXHhxgk)
 
     Resources pointed by speaker
 
@@ -417,7 +417,19 @@
 
     [Webpack 2.2: The final release](https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144)
 
-9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - Coming soon
+9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - [Slides](http://slides.com/elecash/interactive-video-apps-with-videogular2#/)
+
+    Resources pointed by speaker
+
+    [Official website](http://www.videogular.com)
+
+    [Demo repo 1](https://github.com/videogular/custom-element-demo)
+
+    [Demo repo 2](https://github.com/videogular/pip-demo)
+
+    [Github project](https://github.com/videogular/videogular2)
+
+    [Showroom](https://videogular.github.io/videogular2-showroom/#/)
 
 10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | [Youtube](https://www.youtube.com/watch?v=rb5i8Bs7-k0)
 
@@ -502,7 +514,7 @@
     [More about Brain Drain](https://biznas.io/blog/2017/04/05/ngconf2017-memory-leak-brain-drain-talk-by-biznas-lead-dev-jon-boyd/)
 
 
-15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | Slides -Coming soon | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
+15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | [Slides](https://docs.google.com/presentation/d/17_RMceQBuTrR2m2vgnJaE7raVh8-69ipCnu6uFk8vJI/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
 
 
 16. `Lost in Translation` [Oliver Combe]() | [Slides](https://docs.google.com/presentation/d/1l7kr_OdSxiobAVkTrMG-LGxqsJcj9Fd1zJTNpVXSu7A/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=dihyu1a2bPc)
