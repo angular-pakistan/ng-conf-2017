@@ -802,7 +802,7 @@ More coming soon... Star/Bookmark this repo ....
 
     [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-13. `Packaging Angular` [Jason Aden](https://www.linkedin.com/in/jasonaden/)  - Slides coming soon. | [Youtube](https://www.youtube.com/watch?v=unICbsPGFIA)
+13. `Packaging Angular` [Jason Aden](https://www.linkedin.com/in/jasonaden/)  - [Slides](https://drive.google.com/file/d/0B7cAwqYk3HgnSTJKYnRYZ0dSdmM/view?usp=sharing) | [Youtube](https://www.youtube.com/watch?v=unICbsPGFIA)
 
     Resources pointed by speaker
 
