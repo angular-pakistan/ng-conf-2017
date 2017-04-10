@@ -549,7 +549,7 @@
     [Software Architekt](https://softwarearchitekt.at/index.aspx)
 
 
-18. `Angular Material 2 Workshop` - [Elad Bezalel](https://twitter.com/Elad_Bezalel) & [Paul Gschwendtner](https://twitter.com/DevVersion) - [Workshop -Step by Step - Github](https://github.com/EladBezalel/material2-start) | Youtube (pending)
+18. `Angular Material 2 Workshop` - [Elad Bezalel](https://twitter.com/Elad_Bezalel) & [Paul Gschwendtner](https://twitter.com/DevVersion) - [Workshop -Step by Step - Github](https://github.com/EladBezalel/material2-start) | [Youtube](https://www.youtube.com/watch?v=8hIBy2VCUSc)
 
     Resources pointed by speaker
 
@@ -777,7 +777,7 @@ More coming soon... Star/Bookmark this repo ....
 
 7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - [Youtube](https://www.youtube.com/watch?v=MMxJe4W1P4A)
 
-8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - Links coming soon.
+8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - [Youtube](https://www.youtube.com/watch?v=9oVKjZrgXmU)
 
 9. `Reducing package size and complexity with NgModule` [James Daniels](https://twitter.com/jamesuriah?lang=en)  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
 
@@ -802,7 +802,7 @@ More coming soon... Star/Bookmark this repo ....
 
     [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-13. `Packaging Angular` [Jason Aden](https://www.linkedin.com/in/jasonaden/)  - Slides coming soon. | Youtube coming soon.
+13. `Packaging Angular` [Jason Aden](https://www.linkedin.com/in/jasonaden/)  - Slides coming soon. | [Youtube](https://www.youtube.com/watch?v=unICbsPGFIA)
 
     Resources pointed by speaker
 
@@ -862,7 +862,7 @@ More coming soon... Star/Bookmark this repo ....
 
      [ngconf Demo App](http://bit.ly/ngconf-functions)
 
-18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Slides coming soon. Youtube coming soon.
+18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Slides coming soon. [Youtube](https://www.youtube.com/watch?v=hHNUohOPCCo)
 
     [Angular Style Guide](https://angular.io/styleguide)
 
