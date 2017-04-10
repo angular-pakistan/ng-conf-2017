@@ -138,7 +138,7 @@
     -
 
  ---
-12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=kW37RU5k8xM)
+12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides](http://www.slideshare.net/simpul/ngconf-2017-angular-mischief-maker) | [Youtube](https://www.youtube.com/watch?v=kW37RU5k8xM)
 
     Resources pointed by speaker
 
