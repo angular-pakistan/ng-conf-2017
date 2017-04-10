@@ -777,7 +777,7 @@ More coming soon... Star/Bookmark this repo ....
 
 7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - [Youtube](https://www.youtube.com/watch?v=MMxJe4W1P4A)
 
-8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - Links coming soon.
+8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - [Youtube](https://www.youtube.com/watch?v=9oVKjZrgXmU)
 
 9. `Reducing package size and complexity with NgModule` [James Daniels](https://twitter.com/jamesuriah?lang=en)  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
 
