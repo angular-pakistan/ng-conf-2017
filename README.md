@@ -636,7 +636,7 @@ More coming soon... Star/Bookmark this repo ....
 
 ## Day 3 Summary (April 7th, 2016)
 
-1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - Slides - comoing soon - [Youtube](https://www.youtube.com/watch?v=Nj9_p4qvm5U)
+1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - [Slides](https://docs.google.com/presentation/d/1mBsDEF0XfvzKHA047nez8V5uH8JIE8A4gsIX0-w1WRY/edit#slide=id.g128d8fde34_1_2) - [Youtube](https://www.youtube.com/watch?v=Nj9_p4qvm5U)
 
     Resources pointed by speaker
 
