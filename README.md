@@ -138,11 +138,11 @@
     -
 
  ---
-12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=kW37RU5k8xM)
+12. `Mischief Maker` [Lukas Ruebbelke](https://twitter.com/simpulton) and [Roger Tipping](https://twitter.com/rogertippingII) - [Slides](https://www.slideshare.net/simpul/ngconf-2017-angular-mischief-maker) | [Youtube](https://www.youtube.com/watch?v=kW37RU5k8xM)
 
     Resources pointed by speaker
 
-    -
+    [Angular Electron App](https://github.com/onehungrymind/mischief-maker)
 
  ---
 13. `ng-STEAM` [Joe Skeen](https://twitter.com/joeskeenjr) and Gwen Skeen - [Slides]() | [Youtube](https://www.youtube.com/watch?v=39vCAvW0a7E)
