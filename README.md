@@ -874,9 +874,10 @@ More coming soon... Star/Bookmark this repo ....
 ## Workshops
 
 1. Angular Unit Testing - Tips & Tricks - [Peter Becon Darwin](https://twitter.com/petebd) - [Slides](https://goo.gl/YoKFsk)
-2. MIGRATING APPLICATIONS FROM ANGULAR 1 TO 2 - [Joe Eames](https://twitter.com/josepheames) [Todd Motto](https://twitter.com/toddmotto) 
-    [Slides](https://www.dropbox.com/s/wvkvwl4kwlwcrhd/ngConf-Migrating.pptx?dl=0)
-    [Notes](https://docs.google.com/document/d/1XTSs8l0rt_pPtxKOGxdBBw4KdVCNoj80upvvXra05lI/edit#heading=h.l1y2oba1m3en)
+
+2. Migrating Applications From Angular 1 to Angular 2 - [Joe Eames](https://twitter.com/josepheames) & [Todd Motto](https://twitter.com/toddmotto) -
+    [Slides](https://www.dropbox.com/s/wvkvwl4kwlwcrhd/ngConf-Migrating.pptx?dl=0) |
+    [Notes](https://docs.google.com/document/d/1XTSs8l0rt_pPtxKOGxdBBw4KdVCNoj80upvvXra05lI/edit#heading=h.l1y2oba1m3en) |
     [Repo](https://github.com/joeeames/ngMigrationWorkshop)
 
 ## Misc
