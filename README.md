@@ -2,7 +2,7 @@
 
 > Search with ⌘/ctrl + f
 
-## Day 1 Summary (April 5th, 2016)
+## Day 1 Summary (April 5th, 2017)
 
 1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides](https://docs.google.com/presentation/d/17XEE7dNq2e8CAgC68vM7Hn_1hR5jwnPoBiRmqzAF9DQ/preview?slide=id.p) | [Youtube](https://www.youtube.com/watch?v=anzsE2TbCyk)
 
@@ -235,7 +235,7 @@
 20. `ng-Party` [Pictures]()
  ---
 
-## Day 2 Summary (April 6th, 2016)
+## Day 2 Summary (April 6th, 2017)
 
 1. `Building a roboarmy with Angular` - [Sebastian ](https://twitter.com/sebawita)  - [Slides](https://t.co/0rdQsDxETs) | [Youtube](https://www.youtube.com/watch?v=RE7m-BcGukQ)
 
@@ -642,7 +642,7 @@
 More coming soon... Star/Bookmark this repo ....
 
 
-## Day 3 Summary (April 7th, 2016)
+## Day 3 Summary (April 7th, 2017)
 
 1. `Keynote - 2` [Brad Green](https://twitter.com/bradlygreen) & [Rob Wormald](twitter.com/robwormald) - [Slides](https://docs.google.com/presentation/d/1mBsDEF0XfvzKHA047nez8V5uH8JIE8A4gsIX0-w1WRY/edit#slide=id.g128d8fde34_1_2) - [Youtube](https://www.youtube.com/watch?v=Nj9_p4qvm5U)
 
