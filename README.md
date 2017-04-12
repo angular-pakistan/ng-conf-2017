@@ -285,7 +285,7 @@
     [Live App](ngtest-turbo.firebaseapp.com)
 
 
-5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides](http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=i3iNDdshgrc)
+5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides](http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=4xScMnaasG0)
 
     Resources pointed by speaker
 
@@ -602,7 +602,15 @@
     [TypeScript - Gitter](https://gitter.im/Microsoft/TypeScript)
 
 
-27. `Voice User Interfaces with Angular` - Coming soon ...
+27. `Voice User Interfaces with Angular` -  [Jeremy Wilken](https://twitter.com/gnomeontherun) - [Slides](https://speakerdeck.com/gnomeontherun/voice-activated-ui-ngconf-2017) |  [Youtube](https://www.youtube.com/watch?v=Exol_iDLxbA) | [Demo - Github](https://github.com/gnomeontherun/voice-activated-ui-ng-conf-2017)
+
+    Resources pointed by speaker
+
+    [Data Bank - The World Bank](http://databank.worldbank.org/data/databases.aspx)
+
+    [Google Home](https://madeby.google.com/home/)
+
+    [Another Demo - Voice Activated UI Applicatin](https://github.com/gnomeontherun/voice-activated-ui-mvpmix-2017)
 
 28. `Firebase/Cloud Functions Workshop` - [Youtube](https://www.youtube.com/watch?v=QVAkTFiTr34)
 
@@ -679,7 +687,7 @@ More coming soon... Star/Bookmark this repo ....
 
     [Princess Guard](https://www.youtube.com/watch?v=7w7zq8fKMvo&feature=youtu.be)
 
-3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin) | Slides - coming soon / Youtube - coming soon
+3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin) | Slides - coming soon / [Youtube](https://www.youtube.com/watch?v=izpqQpD8RQ0)
 
     Resourcs pointed by speaker
 
