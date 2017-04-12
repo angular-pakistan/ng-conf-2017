@@ -4,7 +4,7 @@
 
 ## Day 1 Summary (April 5th, 2016)
 
-1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides]() | [Youtube](https://www.youtube.com/watch?v=anzsE2TbCyk)
+1. `Keynote` - [Stephen Fluin](https://twitter.com/stephenfluin), [Igor Minor](https://twitter.com/IgorMinar) and [Josh Thomas](https://twitter.com/jthoms1) - [Slides](https://docs.google.com/presentation/d/17XEE7dNq2e8CAgC68vM7Hn_1hR5jwnPoBiRmqzAF9DQ/preview?slide=id.p) | [Youtube](https://www.youtube.com/watch?v=anzsE2TbCyk)
 
     Resources pointed by speakers
 
