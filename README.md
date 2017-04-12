@@ -283,6 +283,8 @@
     [Medium - Angular 2 testing guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
 
     [Live App](ngtest-turbo.firebaseapp.com)
+    
+    [Husky - git hooks in npm scripts](https://www.npmjs.com/package/husky)
 
 
 5. `Diving into TypeScript` - [John Papa](https://twitter.com/John_Papa) and [Dan Wahlin](http://twitter.com/DanWahlin)  [Github]() | [Slides](http://codewithdan.me/ts-es2015-in60) | [Youtube](https://www.youtube.com/watch?v=4xScMnaasG0)
