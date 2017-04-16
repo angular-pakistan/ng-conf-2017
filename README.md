@@ -569,7 +569,7 @@
 
 20. `Testing & Protractor Office Hours Session 2` - Coming soon ...
 
-21. `DiY Angular Compiler` - Coming soon ...
+21. `DiY Angular Compiler` - [Uri Shaked](https://twitter.com/UriShaked) | [Slides](https://goo.gl/6qlZIY) | [YouTube](https://www.youtube.com/watch?v=QQ2plVD0gDI) 
 
 22. `Using Components in Angular 1.5` - [Youtube](https://www.youtube.com/watch?v=7eQbQN-Dzm0)
 
