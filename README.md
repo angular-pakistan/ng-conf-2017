@@ -787,6 +787,14 @@ More coming soon... Star/Bookmark this repo ....
 
 7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - [Youtube](https://www.youtube.com/watch?v=MMxJe4W1P4A)
 
+    Resources pointed by speaker
+
+    [Angular and Accessibility blog post](https://medium.com/@urish/angular-and-accessibility-8ae1f601803a)
+    
+    [Demo code repo on GitHub](https://github.com/urish/breaking-the-eyes)
+    
+    [ChromeVox Screen Reader](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
+    
 8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - [Youtube](https://www.youtube.com/watch?v=9oVKjZrgXmU)
 
 9. `Reducing package size and complexity with NgModule` [James Daniels](https://twitter.com/jamesuriah?lang=en)  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
