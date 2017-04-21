@@ -423,6 +423,8 @@
 
     Resources pointed by speaker
 
+    [Interactive video apps with videogular2 - video](https://www.youtube.com/watch?v=-wXfJvb9Ae0)
+
     [Official website](http://www.videogular.com)
 
     [Demo repo 1](https://github.com/videogular/custom-element-demo)
