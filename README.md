@@ -106,7 +106,7 @@
 
 
  ---
-8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | Youtube link coming soon.
+8. `ng-rap` [Shai Reznik](https://twitter.com/shai_reznik) - [The RAP](https://hirez.io/ng-rap) | [Youtube](https://www.youtube.com/watch?v=vztUMbRARoo)
 
     Resources
 
@@ -683,7 +683,7 @@ More coming soon... Star/Bookmark this repo ....
     [AMP Project](https://www.ampproject.org/)
 
 
-2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - [Youtube](https://www.youtube.com/watch?v=7w7zq8fKMvo&feature=youtu.be) - [Github](https://github.com/hirezio/the-princess-guards)
+2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - [Youtube](https://www.youtube.com/watch?v=yjxOYsRkozQ) - [Github](https://github.com/hirezio/the-princess-guards)
 
     Resources pointed by speaker ( not really :D )
 
