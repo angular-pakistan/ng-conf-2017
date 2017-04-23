@@ -8,7 +8,7 @@
 
     Resources pointed by speakers
 
-    [Angular Code of Conduct](github.com/angular/code-of-conduct)
+    [Angular Code of Conduct](https://github.com/angular/code-of-conduct)
 
     [Angular Code of Conduct Email](conduct@angular.io)
 
