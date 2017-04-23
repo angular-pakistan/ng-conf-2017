@@ -435,23 +435,23 @@
 
     [Showroom](https://videogular.github.io/videogular2-showroom/#/)
 
-10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github]() | [Slides] () | [Youtube](https://www.youtube.com/watch?v=rb5i8Bs7-k0)
+10. `Angular and GraphQL – A modern API for a modern Platform` - [speaker](https://twitter.com/UriGoldshtein)  [Github](https://github.com/apollographql/githunt-angular) | [Slides] (https://www.icloud.com/keynote/0Jx0mAQ1jgJ8u9Ui0uFhGl6UQ#ng-conf_2017_copy_version_2) | [Youtube](https://www.youtube.com/watch?v=rb5i8Bs7-k0)
 
-       [Uri Github](https://github.com/urigo)
+       [Uri's Github profile](https://github.com/urigo)
 
        [Whatsapp Clone App using GraphQL- Meteor - Ionic](https://github.com/Urigo/Ionic2-MeteorCLI-WhatsApp)
 
-       [Appolo - GraphQL - Chrome Extension](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm?hl=en-US)
+       [Apollo - GraphQL - Chrome Extension](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm?hl=en-US)
 
        [JS GraphQL- Webstorm Plugin](https://plugins.jetbrains.com/plugin/8097-js-graphql)
 
-       [Wrapping a REST API in GraphQL](http://graphql.org/blog/rest-api-graphql-wrapper/)
+       [GraphQL today using Apollo for client apps that still depend on REST APIs](https://medium.com/taller-team/graphql-today-using-apollo-for-applications-that-still-depend-on-rest-apis-839895ce20d0)
+       
+       [Wrapping a REST API in GraphQL Server](http://graphql.org/blog/rest-api-graphql-wrapper/)
 
-       [Appolo Data](http://www.apollodata.com/)
+       [Apollo Data](http://www.apollodata.com/)
 
-       [GraphQL Hub](https://www.graphqlhub.com/)
-
-       [GraphQL Hub Schemas - NPM](https://www.npmjs.com/package/graphqlhub-schemas)
+       [SchemeHub](http://alpha.schemehub.io/)
 
        [GitHub Dumps REST Calls for Facebook’s GraphQL](https://thenewstack.io/github-dumps-rest-graphql-api/)
 
