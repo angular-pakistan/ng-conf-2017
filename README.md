@@ -419,7 +419,7 @@
 
     [Webpack 2.2: The final release](https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144)
 
-9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - [Slides](http://slides.com/elecash/interactive-video-apps-with-videogular2#/)
+9. `Interactive video apps with Videogular2` - [Raul Jimenez Herrando](https://twitter.com/elecash)  - [Slides](http://slides.com/elecash/interactive-video-apps-with-videogular2#/) [Youtube](https://www.youtube.com/watch?v=-wXfJvb9Ae0)
 
     Resources pointed by speaker
 
