@@ -928,15 +928,23 @@ More coming soon... Star/Bookmark this repo ....
 
 ## Recaps / Summaries
 
-> [Summary Day 1 - By AuthO](https://auth0.com/blog/ng-conf-summary-day-1/)
+> [Summary Day 1 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day1/)
 
 > [Summary Day 2 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day2/)
+
+> [Summary Day 3 - By AuthO](https://auth0.com/blog/ngconf2017-summary-day3/)
 
 > [ngConf 2017 Day 1 Review - By Jennifer Bland](https://medium.com/@ratracegrad/ngconf-2017-my-review-of-the-annual-conference-on-everything-angular-v1-v2-v4-and-soon-v5-day-bfe553c5c063)
 
 > [ngConf 2017 Day 2 Review - By Jennifer Bland](goo.gl/LD2Smb)
 
 > [ngConf 2017 Day 3 Review - By Jennifer Bland](https://goo.gl/UGY5oV)
+
+> [NG-CONF 2017 Day One Highlights - By Dave Baskin](http://www.wintellect.com/devcenter/dbaskin/ng-conf-2017-day-one-highlights)
+
+> [NG-CONF 2017 Day Two Highlights - By Dave Baskin](http://www.wintellect.com/devcenter/dbaskin/ng-conf-2017-day-two-highlights)
+
+> [NG-CONF 2017 Day Three Highlights - By Dave Baskin](http://www.wintellect.com/devcenter/dbaskin/ng-conf-2017-day-three-highlights)
 
 
 
