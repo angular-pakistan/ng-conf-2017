@@ -283,7 +283,7 @@
     [Medium - Angular 2 testing guide](https://medium.com/google-developer-experts/angular-2-testing-guide-a485b6cb1ef0)
 
     [Live App](ngtest-turbo.firebaseapp.com)
-    
+
     [Husky - git hooks in npm scripts](https://www.npmjs.com/package/husky)
 
 
@@ -446,7 +446,7 @@
        [JS GraphQL- Webstorm Plugin](https://plugins.jetbrains.com/plugin/8097-js-graphql)
 
        [GraphQL today using Apollo for client apps that still depend on REST APIs](https://medium.com/taller-team/graphql-today-using-apollo-for-applications-that-still-depend-on-rest-apis-839895ce20d0)
-       
+
        [Wrapping a REST API in GraphQL Server](http://graphql.org/blog/rest-api-graphql-wrapper/)
 
        [Apollo Data](http://www.apollodata.com/)
@@ -571,7 +571,7 @@
 
 20. `Testing & Protractor Office Hours Session 2` - Coming soon ...
 
-21. `DiY Angular Compiler` - [Uri Shaked](https://twitter.com/UriShaked) | [Slides](https://goo.gl/6qlZIY) | [YouTube](https://www.youtube.com/watch?v=QQ2plVD0gDI) 
+21. `DiY Angular Compiler` - [Uri Shaked](https://twitter.com/UriShaked) | [Slides](https://goo.gl/6qlZIY) | [YouTube](https://www.youtube.com/watch?v=QQ2plVD0gDI)
 
 22. `Using Components in Angular 1.5` - [Youtube](https://www.youtube.com/watch?v=7eQbQN-Dzm0)
 
@@ -792,11 +792,11 @@ More coming soon... Star/Bookmark this repo ....
     Resources pointed by speaker
 
     [Angular and Accessibility blog post](https://medium.com/@urish/angular-and-accessibility-8ae1f601803a)
-    
+
     [Demo code repo on GitHub](https://github.com/urish/breaking-the-eyes)
-    
+
     [ChromeVox Screen Reader](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
-    
+
 8. `Super TypeScript II Turbo – FP Remix` [Sean May](https://twitter.com/seanjmay)  - [Youtube](https://www.youtube.com/watch?v=9oVKjZrgXmU)
 
 9. `Reducing package size and complexity with NgModule` [James Daniels](https://twitter.com/jamesuriah?lang=en)  - [Youtube](https://www.youtube.com/watch?v=Q6tfr23fS98)
@@ -845,9 +845,9 @@ More coming soon... Star/Bookmark this repo ....
 
     All links coming soon (being uploaded at this time)
 
-14. `Do More with Less` [Douglas Uluca](https://twitter.com/duluca)  - [Slides](https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0) - [Youtube](https://www.youtube.com/watch?v=Sd1aM8181kc)
+14. `Do More with Less` [Doguhan Uluca](https://twitter.com/duluca)  - [Slides](https://www.dropbox.com/s/iyaa468j035jm77/do-more-with-less-js.pdf?dl=0) - [Youtube](https://www.youtube.com/watch?v=Sd1aM8181kc)
 
-    [JavaScript Promise - www](thejavascriptpromise.com)
+    [JavaScript Promise - www](http://thejavascriptpromise.com)
 
     [Building Scalable and Beautiful AngularJS Apps](http://thejavascriptpromise.com/#blogs)
 
