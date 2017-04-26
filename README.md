@@ -683,13 +683,12 @@ More coming soon... Star/Bookmark this repo ....
     [AMP Project](https://www.ampproject.org/)
 
 
-2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznek](https://twitter.com/shai_reznik)  - [Youtube](https://www.youtube.com/watch?v=yjxOYsRkozQ) - [Github](https://github.com/hirezio/the-princess-guards)
+2. `Angular Router Authentication & Authorization – REAL LIVE LIVE LIVE LIVE LIVE DEMO` [Shai Reznik](https://twitter.com/shai_reznik)  - [Youtube](https://www.youtube.com/watch?v=yjxOYsRkozQ)
 
-    Resources pointed by speaker ( not really :D )
+    Resources pointed by speaker - 
+    [the-princess-guards Github project](https://github.com/hirezio/the-princess-guards)
 
-    [Routing & Navigation](https://angular.io/docs/ts/latest/guide/router.html)
-
-    [Princess Guard](https://www.youtube.com/watch?v=7w7zq8fKMvo&feature=youtu.be)
+    [Routing & Navigation docs](https://angular.io/docs/ts/latest/guide/router.html)
 
 3. `Upgrading Enterprise Angular Applications` [Victor Sevkin](https://twitter.com/victorsavkin) | Slides - coming soon / [Youtube](https://www.youtube.com/watch?v=izpqQpD8RQ0)
 
