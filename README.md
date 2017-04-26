@@ -33,7 +33,7 @@
     ... Long Term Suppor - Starting with V4 - Official link not available at this time. Check Misc for community link.
 
  ---
-2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides]() | [Youtube](https://www.youtube.com/watch?v=h7eVZg3j_Lk)
+2. `I am One with Angular, Angular is One with Me` - [John Papa](https://twitter.com/John_Papa) - [Github 1](http://github.com/johnpapa/one-with-angular) | [Github 2](http://github.com/johnpapa/one-with-angular-api) | [Slides](https://www.slideshare.net/johnpapa/i-amonewithangular) | [Youtube](https://www.youtube.com/watch?v=h7eVZg3j_Lk)
 
     Resource pointed by speaker
 
