@@ -882,7 +882,7 @@ More coming soon... Star/Bookmark this repo ....
 
      [ngconf Demo App](http://bit.ly/ngconf-functions)
 
-18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin)  - Slides coming soon. [Youtube](https://www.youtube.com/watch?v=hHNUohOPCCo)
+18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin) | [Slides](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p) | [Youtube](https://www.youtube.com/watch?v=hHNUohOPCCo)
 
     [Angular Style Guide](https://angular.io/styleguide)
 
