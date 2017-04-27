@@ -577,7 +577,7 @@
 
      More resources coming soon ...
 
-23. `Powering Content Driven Applications with the World’s Most Popular CMS` - Coming soon ...
+23. `Powering Content Driven Applications with the World’s Most Popular CMS` - [Roy Sivan](https://twitter.com/royboy789) | [Slides](https://www.slideshare.net/royssivan/powering-content-driven-applications-with-the-worlds-most-popular-cms-ngconf) | [Youtube](https://www.youtube.com/watch?v=-PxlDHSgXQY)
 
 24. `Alexa, create a voice activated chat bot.` [Terence Carrol](https://twitter.com/thack) - [Github](https://github.com/thack/ngconf17.git) | [Youtube](https://www.youtube.com/watch?v=rq23g0YoYGg)
 
