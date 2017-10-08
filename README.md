@@ -591,7 +591,7 @@
 
     [Alexa Wookieepedia Info Skill](https://support.glitch.com/t/chewy-alexa-wookieepedia-info-skill/837)
 
-25. `The day i met Steve` - Coming soon ...
+25. `The day i met Steve` - [Alyssa Nicoll](https://twitter.com/alyssanicoll) - [Youtube](https://www.youtube.com/watch?v=tfw3bhaDbsA)
 
 26. `TypeScript: What’s New in 2.2` - [Daniel Rossenwasser](https://twitter.com/drosenwasser) - [Youtube](https://www.youtube.com/watch?v=0Q1lQKE2qbI)
 
